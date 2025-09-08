@@ -129,25 +129,31 @@ def build_ics(events):
         f"X-WR-TIMEZONE:{TZID}",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        f"X-WR-CALNAME:Knihovna Vrdy – Akce",
+        "X-WR-CALNAME:Knihovna Vrdy – Akce",
     ]
     for ev in events:
         if ev["start"] is None or ev["end"] is None:
-            # přeskoč akce bez „Termín konání“
             continue
+
+        summary = ics_escape(ev["title"])
+        location = ics_escape(ev.get("location") or "")
+        description = ics_escape(ev.get("description") or "")
+        url = ev.get("url") or ""
+
         lines += [
             "BEGIN:VEVENT",
             f"UID:{ev['uid']}",
             f"DTSTAMP:{now}",
-            f"SUMMARY:{ev['title'].replace(',', '\\,')}",
-            f"LOCATION:{(ev['location'] or '').replace(',', '\\,')}",
-            f"DESCRIPTION:{ev['description'].replace('\\n', '\\n').replace(',', '\\,')}",
-            f"URL:{ev['url']}",
+            f"SUMMARY:{summary}",
+            f"LOCATION:{location}",
+            f"DESCRIPTION:{description}",
+            f"URL:{url}",
             f"DTSTART;TZID={TZID}:{dt_local_ics(ev['start'])}",
             f"DTEND;TZID={TZID}:{dt_local_ics(ev['end'])}",
             "END:VEVENT",
         ]
     lines.append("END:VCALENDAR")
+    return "\r\n".join(lines)
     return "\r\n".join(lines)
 
 def main():
