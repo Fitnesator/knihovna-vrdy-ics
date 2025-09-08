@@ -23,98 +23,107 @@ def fetch(url):
     r.raise_for_status()
     return r.text
 
-def parse_list(html):
+# --- NOVÉ: parser výpisu /akce ---------------------------------------------
+
+def parse_listing(html):
+    """
+    Vrátí list eventů přímo z výpisu /akce (bez prokliků do detailu).
+    Struktura na webu: bloky s <h3> NÁZEV </h3> a pod nimi řádky:
+      * Věk …
+      * Místo …
+      * "DD.MM.YYYY - DD.MM.YYYY" nebo "Termín neuveden"
+      + 1–N odstavců popisu
+    """
     soup = BeautifulSoup(html, "html.parser")
-    # H3 > a odkazy na akce (viz /akce)
-    links = []
-    for h3 in soup.select("h3 a[href]"):
-        href = h3.get("href", "")
-        if href.startswith("/akce/"):
-            links.append(urljoin(BASE, href))
-    # Unikátní a v pořadí
-    seen = set()
-    out = []
-    for l in links:
-        if l not in seen:
-            out.append(l)
-            seen.add(l)
-    return out
+    events = []
 
-def clean_text(x):
-    return re.sub(r"\s+\n", "\n", re.sub(r"[ \t]+", " ", x)).strip()
+    # vezmeme všechny H3 v sekci "Připravované akce"
+    # (na stránce je jen jeden hlavní seznam, takže bereme všechny h3 v obsahu)
+    for h3 in soup.find_all("h3"):
+        title = h3.get_text(strip=True)
+        block = []
 
-def parse_detail(url):
-    html = fetch(url)
-    soup = BeautifulSoup(html, "html.parser")
-    title_el = soup.select_one("h2, h1, .content h2")
-    title = title_el.get_text(strip=True) if title_el else "Akce Knihovna Vrdy"
+        # posbírej sourozence až do dalšího H3 nebo konce sekce
+        for sib in h3.next_siblings:
+            if getattr(sib, "name", None) == "h3":
+                break
+            if getattr(sib, "name", None) in ("ul", "p", "div", "span"):
+                text = sib.get_text(" ", strip=True)
+                if text:
+                    block.append(text)
 
-    # v „Základní informace“ je tabulka/definice s položkami
-    info_text = " ".join(el.get_text(" ", strip=True) for el in soup.find_all(text=True))
-    # Kód
-    code_match = re.search(r"\bKód\s+(\d+)\b", info_text)
-    code = code_match.group(1) if code_match else None
+        # spojíme do jednoho textu pro regexy
+        blob = " \n".join(block)
 
-    # Termín konání: „DD.MM.YYYY HH:MM - HH:MM“ nebo i rozsah dnů
-    # pokryjeme formáty:
-    # 10.09.2025 16:30 - 18:30
-    # 26.10.2025 - 26.10.2025 (případně s časem)
-    term_block = ""
-    term_match = re.search(r"Termín konání\s+([0-9.\s:-]+)", info_text)
-    if term_match:
-        term_block = term_match.group(1).strip()
+        # Místo (řádek, kde je jen "Knihovna", "zájezd" apod.)
+        location = None
+        loc_match = re.search(r"\b(Knihovna|zájezd)\b", blob, flags=re.IGNORECASE)
+        if loc_match:
+            location = loc_match.group(1).capitalize()
 
-    start = end = None
-    # Nejčastější varianta: 10.09.2025 16:30 - 18:30
-    m = re.match(r"(\d{2}\.\d{2}\.\d{4})\s+(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})", term_block)
-    if m:
-        d, t1, t2 = m.groups()
-        start = datetime.strptime(f"{d} {t1}", "%d.%m.%Y %H:%M")
-        end = datetime.strptime(f"{d} {t2}", "%d.%m.%Y %H:%M")
-    else:
-        # Zkus čistě datum -> allday (DTEND = next day)
-        m2 = re.match(r"(\d{2}\.\d{2}\.\d{4})\s*-\s*(\d{2}\.\d{2}\.\d{4})", term_block)
-        if m2:
-            d1, d2 = m2.groups()
-            start = datetime.strptime(d1, "%d.%m.%Y")
-            end = datetime.strptime(d2, "%d.%m.%Y") + timedelta(days=1)  # all-day range
-        else:
-            m3 = re.match(r"(\d{2}\.\d{2}\.\d{4})(?:\s+(\d{2}:\d{2}))?", term_block)
-            if m3:
-                d, t = m3.groups()
-                if t:
-                    start = datetime.strptime(f"{d} {t}", "%d.%m.%Y %H:%M")
-                    end = start + timedelta(hours=2)  # fallback délka 2h
-                else:
-                    start = datetime.strptime(d, "%d.%m.%Y")
-                    end = start + timedelta(days=1)  # all-day 1 den
+        # Termín
+        #  a) 10.09.2025 - 10.09.2025
+        #  b) 18.09.2025 19:00 - 21:10  (někdy může být i čas)
+        #  c) Termín neuveden  -> přeskočíme
+        start = end = None
+        term_text = None
 
-    # Místo konání
-    place = None
-    pm = re.search(r"Místo konání\s+([A-Za-zÁ-ž0-9 \-\,\.\(\)\/]+)", info_text)
-    if pm:
-        place = pm.group(1).strip()
+        # najdi první něco, co vypadá jako datumový řádek
+        for line in blob.splitlines():
+            if "Termín" in line and "neuveden" in line.lower():
+                term_text = "Termín neuveden"
+                break
+            if re.search(r"\d{2}\.\d{2}\.\d{4}", line):
+                term_text = line.strip()
+                break
 
-    # Popis – vezmeme shrnutí z hlavního obsahu
-    body = soup.select_one(".content") or soup
-    desc = []
-    for p in body.select("p"):
-        txt = clean_text(p.get_text(" ", strip=True))
-        if txt:
-            desc.append(txt)
-    description = clean_text("\n\n".join(desc))
-    description += f"\n\nURL: {url}"
+        if term_text and term_text.lower().startswith("termín neuveden"):
+            # akce bez termínu do ICS nedáváme
+            continue
 
-    return {
-        "uid": f"knihovnavrdy-{code or abs(hash(url))}@vrdy",
-        "title": title,
-        "start": start,  # datetime or None
-        "end": end,      # datetime or None
-        "allday": start is not None and (start.hour == 0 and start.minute == 0 and (end - start) in (timedelta(days=1),)),
-        "location": place or "Knihovna F. V. Lorence Vrdy",
-        "description": description,
-        "url": url,
-    }
+        if term_text:
+            # pokus 1: "DD.MM.YYYY - DD.MM.YYYY"
+            m = re.search(r"(\d{2}\.\d{2}\.\d{4})\s*-\s*(\d{2}\.\d{2}\.\d{4})", term_text)
+            if m:
+                d1, d2 = m.groups()
+                start = datetime.strptime(d1, "%d.%m.%Y")
+                # all-day rozsah: DTEND je o den později za poslední den
+                end = datetime.strptime(d2, "%d.%m.%Y") + timedelta(days=1)
+            else:
+                # pokus 2: "DD.MM.YYYY HH:MM - HH:MM" nebo "DD.MM.YYYY"
+                m2 = re.search(r"(\d{2}\.\d{2}\.\d{4})(?:\s+(\d{2}:\d{2}))?\s*(?:-\s*(\d{2}:\d{2}))?", term_text)
+                if m2:
+                    d, t1, t2 = m2.groups()
+                    if t1 and t2:
+                        start = datetime.strptime(f"{d} {t1}", "%d.%m.%Y %H:%M")
+                        end = datetime.strptime(f"{d} {t2}", "%d.%m.%Y %H:%M")
+                    elif t1:
+                        start = datetime.strptime(f"{d} {t1}", "%d.%m.%Y %H:%M")
+                        end = start + timedelta(hours=2)
+                    else:
+                        start = datetime.strptime(d, "%d.%m.%Y")
+                        end = start + timedelta(days=1)
+
+        if not (start and end):
+            # bezpečnostní brzda – bez data do ICS nedáváme
+            continue
+
+        # Popis: vezmeme všechny odstavce nasbírané v bloku
+        description = blob.strip()
+        url = LIST_URL  # nemáme detail, odkazujeme aspoň na výpis
+
+        events.append({
+            "uid": f"knihovnavrdy-{abs(hash(title + term_text))}@vrdy",
+            "title": title,
+            "start": start,
+            "end": end,
+            "location": location or "Knihovna F. V. Lorence Vrdy",
+            "description": description,
+            "url": url,
+        })
+
+    return events
+
 
 def dt_local_ics(dt):
     # Lokální (floating) s TZID
@@ -162,19 +171,13 @@ def main():
     args = ap.parse_args()
 
     listing = fetch(LIST_URL)
-    detail_urls = parse_list(listing)
-    events = []
-    for u in detail_urls:
-        try:
-            ev = parse_detail(u)
-            events.append(ev)
-        except Exception as e:
-            print(f"[WARN] {u}: {e}", file=sys.stderr)
+    events = parse_listing(listing)   # << místo původního parse_list + parse_detail
 
     ics = build_ics(events)
     with open(args.out, "w", encoding="utf-8", newline="\n") as f:
         f.write(ics)
-    print(f"OK -> {args.out}  ({len([e for e in events if e['start'] and e['end']])} událostí)")
+    print(f"OK -> {args.out}  ({len(events)} událostí)")
+
 
 if __name__ == "__main__":
     main()
