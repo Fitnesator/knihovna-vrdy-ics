@@ -32,14 +32,15 @@ jobs:
           mkdir -p docs
           python vrdy_knihovna_to_ics.py --out docs/vrdy_knihovna.ics
 
-      - name: Commit & push if changed
+    - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet; then
-            git add docs/vrdy_knihovna.ics
+          # Zjisti změny včetně NETRACKOVANÝCH souborů
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
             git commit -m "Auto-update ICS ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
             git push
           else
-            echo "No changes in ICS."
+            echo "No changes to commit."
           fi
