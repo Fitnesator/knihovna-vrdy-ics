@@ -2,9 +2,7 @@ name: Build ICS (Knihovna Vrdy)
 
 on:
   schedule:
-    # POZOR: GitHub Actions používá UTC.
-    # 05:05 UTC ≈ 07:05 v Praze (CEST); v zimě 06:05 (CET).
-    - cron: "5 5 * * *"
+    - cron: "5 5 * * *"   # 05:05 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -32,15 +30,10 @@ jobs:
           mkdir -p docs
           python vrdy_knihovna_to_ics.py --out docs/vrdy_knihovna.ics
 
-    - name: Commit & push if changed
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Zjisti změny včetně NETRACKOVANÝCH souborů
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -m "Auto-update ICS ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          git add -A
+          git commit -m "Auto-update ICS ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)" || echo "Nothing to commit."
+          git push
