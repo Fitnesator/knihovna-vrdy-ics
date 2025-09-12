@@ -6,18 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-6126835196747879332@vrdy
-DTSTAMP:20250911T052803Z
-SUMMARY:Bezpečně online s NÚKIB
-LOCATION:Knihovna 10.09.2025 - 10.09.2025
-DESCRIPTION:Věk 12-99 Knihovna 10.09.2025 - 10.09.2025\nPřednáška pro širokou veřejnost o základech osobní i pracovní kyber a online bezpečnosti\, kde se naučíte rozpoznat a správně reagovat na základní kyber ohrožení.\nPřednáší Petr Nohel\, referent bezpečnosti státu z Oddělení vzdělávání Národního úřadu pro kybernetickou a informační bezpečnost.\nObsah přednášky\nPřednáška se zaměřuje na praktické aspekty kybernetické bezpečnosti v každodenním životě. Účastníci se seznámí s nejdůležitějšími bezpečnostními opatřeními a naučí se rozpoznat a předcházet běžným kybernetickým hrozbám.\nKlíčová témata:\nHesla a přihlašování - tvorba silných hesel\, správci hesel\, dvoufaktorová autentizace\nOdemykání zařízení - zabezpečení mobilních telefonů\, počítačů a dalších zařízení\nSociální inženýrství - rozpoznávání podvodných technik\, phishing\, manipulativní praktiky\nObecné zásady - základní principy kybernetické bezpečnosti pro každodenní použití\nPřínosy pro účastníky\nPo absolvování přednášky budou účastníci schopni:\nVytvořit a spravovat bezpečná hesla\nSprávně zabezpečit svá zařízení\nRozpoznat pokusy o sociální inženýrství\nImplementovat základní bezpečnostní opatření v osobním i profesním životě\nVstup na akci je zdarma\, rezervace předem není nutná.\nAkci pořádáme v rámici Týdne pro Digitální Česko. Nad akcí převzal záštitu Úřad vlády České republiky.\nAkce probíhají napříč republikou a mnoho z nich je i online\, najděte si tu svou:\nhttps://budoucnostjedigitalni.gov.cz/#seznam-akci\nhttps://www.budoucnostjedigitalni.gov.cz​\nhttps://www.facebook.com/digitalnicesko​ ​\nhttps://x.com/digiczech​\nhttps://www.linkedin.com/company/digitalnicesko
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20250910T000000
-DTEND;TZID=Europe/Prague:20250911T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-9092894592249184343@vrdy
-DTSTAMP:20250911T052803Z
+UID:knihovnavrdy-1604760787033837852@vrdy
+DTSTAMP:20250912T052736Z
 SUMMARY:Elektronická komunikace se státem
 LOCATION:Knihovna 12.09.2025 - 12.09.2025
 DESCRIPTION:Věk 15-99 Knihovna 12.09.2025 - 12.09.2025\nElektronická komunikace se státem aneb Jak pohodlně a efektivně vyřídit potřebné záležitosti z domova či kanceláře?\nTo vám zpřehlední Mgr. Lucie Macháčková z Národní knihovny Praha v přednášce\, kde se dozvíte více o tom\, jak si usnadnit život a naplno využívat výhody spojené s digitalizací státu:\n1. Identita občana: digitální nástroj\, který slouží k bezpečnému a jednoduchému prokazování totožnosti online při komunikaci se státní správou\n2. Portál občana: Jednotné kontaktní místo pro většinu služeb.\n3. Datové schránky: Oficiální elektronická komunikace s úřady\, která nahrazuje listinnou poštu.\nÚčast na semináři je zdarma\, kvůli omezené kapacitě ovšem vyžaduje předchozí přihlášení nebo ověření volných míst předem na kontaktech knihovny. Děkujeme za pochopení.\nAkci pořádáme v rámci Týdne pro Digitální Česko a pod záštitou Úřady vlády ČR.\nhttps://www.budoucnostjedigitalni.gov.cz​\nhttps://www.facebook.com/digitalnicesko​ ​\nhttps://x.com/digiczech​\nhttps://www.linkedin.com/company/digitalnicesko
@@ -26,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20250912T000000
 DTEND;TZID=Europe/Prague:20250913T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-161491830176166733@vrdy
-DTSTAMP:20250911T052803Z
+UID:knihovnavrdy-6468933865063663883@vrdy
+DTSTAMP:20250912T052736Z
 SUMMARY:Čtení i pro nečtenáře s Ester Starou
 LOCATION:Knihovna 18.09.2025 - 18.09.2025
 DESCRIPTION:Věk 4-8 Knihovna 18.09.2025 - 18.09.2025\nSrdečně zveme všechny děti a jejich dospělé na workshop s Ester Starou s názvem Čtení i pro nečtenáře.\nAutorka populárních knih ověnčených spoustou našich i zahraničních cen představí své knihy rozvíjející komunikační a čtenářské dovednosti a nabídne možnosti\, jak s nimi pracovat.\nAutorka je zároveň speciální pedagožka\, logopedka\, koordinátorka inkluze na ZŠ\, koordinátorka soutěže Zlaté dítě při ceně Zlatá stuha. Díky pedagogickým a literárním zkušenostem spolupracuje s českými školami v zahraničí. Zaměřuje se na rozvoj komunikačních dovedností a čtenářské gramotnosti. Z odborné praxe čerpá i při psaní titulů pro děti.\nNa akci doporučujeme rezervovat si místo\, není to ale podmínkou účasti.\nAkci pořádáme v rámci projektu BookStart - S knížkou do života.\nhttps://esterstara.cz/
@@ -36,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20250918T000000
 DTEND;TZID=Europe/Prague:20250919T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-8463146201151992041@vrdy
-DTSTAMP:20250911T052803Z
+UID:knihovnavrdy-7496000065240793290@vrdy
+DTSTAMP:20250912T052736Z
 SUMMARY:Mechový podzimní věnec se sušinou
 LOCATION:Knihovna 29.09.2025 - 29.09.2025
 DESCRIPTION:Věk 15-99 Knihovna 29.09.2025 - 29.09.2025\nVyrobte si podzimní dekorace se Zahradnicí Berankou. Kurz výroby mechového věnece se sušinou a/nebo podzimní dekoraci na stůl.\nJe možné absolvovat jedne nebo oba workshopy. Rezervaci je třeba vytvořit na každý zvlášť.\nCena kurzu 500\,- Kč je splatná na místě přímo lektorce\, v hotovosti nebo přes QR kód.
@@ -46,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20250929T000000
 DTEND;TZID=Europe/Prague:20250930T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7796865099601534563@vrdy
-DTSTAMP:20250911T052803Z
+UID:knihovnavrdy-6994327219068694387@vrdy
+DTSTAMP:20250912T052736Z
 SUMMARY:Podzimní aranžmá v květináči s dýní
 LOCATION:Knihovna 29.09.2025 - 29.09.2025
 DESCRIPTION:Věk 15-99 Knihovna 29.09.2025 - 29.09.2025\nVyrobte si podzimní dekorace se Zahradnicí Berankou. Kurz výrob podzimní dekorace s dýní na stůl nebo mechového věnece se sušinou.\nJe možné absolvovat jedne nebo oba workshopy. Rezervaci je třeba vytvořit na každý zvlášť.\nCena kurzu 350\,- Kč je splatná na místě přímo lektorce\, v hotovosti nebo přes QR kód.
@@ -56,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20250929T000000
 DTEND;TZID=Europe/Prague:20250930T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5480551405443973723@vrdy
-DTSTAMP:20250911T052803Z
+UID:knihovnavrdy-498229923869966028@vrdy
+DTSTAMP:20250912T052736Z
 SUMMARY:Zájezd do divadla: Krásná vzpomínka
 LOCATION:Zájezd 26.10.2025 - 26.10.2025 580 kč
 DESCRIPTION:Věk 15-99 zájezd 26.10.2025 - 26.10.2025 580 Kč\nJaké to je být pianistou nejhorší zpěvačky všech dob? Bizarní příběh Florence Foster Jenkinsové plný živě hrané jazzové i operní hudby.\nČeská premiéra 30. listopadu 2021. Bára Štěpánová se za roli madam Jenkinsové umístila v širší nominaci na Cenu Thálie 2022.\nRezervace míst přednostně přes www.knihovnavrdy.cz/akce nejpozději do pátku 8. 8. 2025\, včetně. Odjezd autobusem v 16:00 z autobusové zastávky u KD Vrdy.\nTermín: neděle 26. 10.\, 19:00-21:10 (odjezd 16:00\, návrat do cca 23:00)\nMísto: Divadlo Ungelt\, Kamenná scéna\, Malá Štupartská 1\, Praha 1 - Staré Město\nHrají: Bára Štěpánová\, Ondřej Brousek\nDélka představení: cca 130 minut\, včetně přestávky\nCeny vstupenek: 560\,- Kč\nUkázka: https://www.youtube.com/watch?v=6MInBKimM_A
