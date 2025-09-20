@@ -6,18 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-4858968491220806535@vrdy
-DTSTAMP:20250919T052730Z
-SUMMARY:Čtení i pro nečtenáře s Ester Starou
-LOCATION:Knihovna 18.09.2025 - 18.09.2025
-DESCRIPTION:Věk 4-8 Knihovna 18.09.2025 - 18.09.2025\nSrdečně zveme všechny děti a jejich dospělé na workshop s Ester Starou s názvem Čtení i pro nečtenáře.\nAutorka populárních knih ověnčených spoustou našich i zahraničních cen představí své knihy rozvíjející komunikační a čtenářské dovednosti a nabídne možnosti\, jak s nimi pracovat.\nAutorka je zároveň speciální pedagožka\, logopedka\, koordinátorka inkluze na ZŠ\, koordinátorka soutěže Zlaté dítě při ceně Zlatá stuha. Díky pedagogickým a literárním zkušenostem spolupracuje s českými školami v zahraničí. Zaměřuje se na rozvoj komunikačních dovedností a čtenářské gramotnosti. Z odborné praxe čerpá i při psaní titulů pro děti.\nNa akci doporučujeme rezervovat si místo\, není to ale podmínkou účasti.\nAkci pořádáme v rámci projektu BookStart - S knížkou do života.\nhttps://esterstara.cz/
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20250918T000000
-DTEND;TZID=Europe/Prague:20250919T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-2415559509400120577@vrdy
-DTSTAMP:20250919T052730Z
+UID:knihovnavrdy-8237325212938018135@vrdy
+DTSTAMP:20250920T052635Z
 SUMMARY:Mechový podzimní věnec se sušinou
 LOCATION:Knihovna 29.09.2025 - 29.09.2025
 DESCRIPTION:Věk 15-99 Knihovna 29.09.2025 - 29.09.2025\nVyrobte si podzimní dekorace se Zahradnicí Berankou. Kurz výroby mechového věnece se sušinou a/nebo podzimní dekoraci na stůl.\nJe možné absolvovat jedne nebo oba workshopy. Rezervaci je třeba vytvořit na každý zvlášť.\nAkce je možné ze zúčastnit jen na základě rezervace a to nejpozději do 25. 9. nebo do naplnění kapacity.\nCena kurzu 500\,- Kč je splatná na místě přímo lektorce\, v hotovosti nebo přes QR kód.
@@ -26,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20250929T000000
 DTEND;TZID=Europe/Prague:20250930T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4270881354975353875@vrdy
-DTSTAMP:20250919T052730Z
+UID:knihovnavrdy-4048369521127170354@vrdy
+DTSTAMP:20250920T052635Z
 SUMMARY:Podzimní aranžmá v květináči s dýní
 LOCATION:Knihovna 29.09.2025 - 29.09.2025
 DESCRIPTION:Věk 15-99 Knihovna 29.09.2025 - 29.09.2025\nVyrobte si podzimní dekorace se Zahradnicí Berankou. Kurz výrob podzimní dekorace s dýní na stůl nebo mechového věnece se sušinou.\nJe možné absolvovat jedne nebo oba workshopy. Rezervaci je třeba vytvořit na každý zvlášť. Akce je možné ze zúčastnit jen na základě rezervace a to nejpozději do 25. 9. nebo do naplnění kapacity.\nCena kurzu 350\,- Kč je splatná na místě přímo lektorce\, v hotovosti nebo přes QR kód.
@@ -36,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20250929T000000
 DTEND;TZID=Europe/Prague:20250930T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1272464038057156476@vrdy
-DTSTAMP:20250919T052730Z
+UID:knihovnavrdy-3178284640170732359@vrdy
+DTSTAMP:20250920T052635Z
 SUMMARY:Zájezd do divadla: Krásná vzpomínka
 LOCATION:Zájezd 26.10.2025 - 26.10.2025 580 kč
 DESCRIPTION:Věk 15-99 zájezd 26.10.2025 - 26.10.2025 580 Kč\nJaké to je být pianistou nejhorší zpěvačky všech dob? Bizarní příběh Florence Foster Jenkinsové plný živě hrané jazzové i operní hudby.\nČeská premiéra 30. listopadu 2021. Bára Štěpánová se za roli madam Jenkinsové umístila v širší nominaci na Cenu Thálie 2022.\nRezervace míst přednostně přes www.knihovnavrdy.cz/akce nejpozději do pátku 8. 8. 2025\, včetně. Odjezd autobusem v 16:00 z autobusové zastávky u KD Vrdy.\nTermín: neděle 26. 10.\, 19:00-21:10 (odjezd 16:00\, návrat do cca 23:00)\nMísto: Divadlo Ungelt\, Kamenná scéna\, Malá Štupartská 1\, Praha 1 - Staré Město\nHrají: Bára Štěpánová\, Ondřej Brousek\nDélka představení: cca 130 minut\, včetně přestávky\nCeny vstupenek: 560\,- Kč\nUkázka: https://www.youtube.com/watch?v=6MInBKimM_A
