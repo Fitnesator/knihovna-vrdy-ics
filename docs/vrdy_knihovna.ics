@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-3423268446838588321@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-4436614213126172551@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:Výstava: Harmonie života
 LOCATION:Knihovna 03.10.2025 - 31.10.2025
 DESCRIPTION:Věk 0-99 Knihovna 03.10.2025 - 31.10.2025\nSrdečně vás zveme na výstavu místní rodačky Zuzany Bělské v chodbách knihovny Vrdy.\nVernisáž výstavy proběhne v pátek 3. 10. 2025 od 16:30.\nTvořím\, když přijde ten pravý okamžik – s klidem\, radostí a otevřeným srdcem. Malba a kresba jsou pro mě nejen formou vyjádření\, ale především cestou k vnitřní rovnováze. Nejčastěji se ve své tvorbě vracím ke květinám\, krajinám a zvířatům – motivům\, které v sobě nesou přirozenou krásu a klid. S oblibou se také věnuji kresbě mandal a v poslední době i pohádkovým postavám\, které vznikají na přání dětí.\nKaždý obraz je pro mě chvílí zastavení\, odpočinku a propojení s harmonií\, kterou vnímám v přírodě i v sobě.\nBudu ráda\, pokud tuto atmosféru zachytíte i vy.\nDěkuji za zhlédnutí mé tvorby.
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20251003T000000
 DTEND;TZID=Europe/Prague:20251101T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4449229494605320218@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-452834910285425144@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:Do knihovny na rok zdarma?!
 LOCATION:Knihovna 06.10.2025 - 10.10.2025
 DESCRIPTION:Knihovna 06.10.2025 - 10.10.2025\nUž 6. října startuje Týden knihoven 2025! Naživo ve vaší oblíbené knihovně i online na www.tydenknihoven.cz Buďte u toho!\nTento týden se mohou noví čtenáři registrovat na rok zdarma. Těšíme se na vás!\nCo pro vás chystáme?\n> registrace pro nové čtenáře na rok zdarma\n> v pondělí a ve středu od 14:00 čtenářské dílničky\n> ve čtvrtek workshopy "vaření" svačinek pro děti\nVíce inforamcí viz samostatné akce
@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20251006T000000
 DTEND;TZID=Europe/Prague:20251011T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7798920472640192543@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-4107031227687819026@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:BookStart: Pavoučí podzim
 LOCATION:Knihovna 08.10.2025 - 08.10.2025
 DESCRIPTION:Věk 3-6 Knihovna 08.10.2025 - 08.10.2025\nČtenářskád dílnička pro děti od 3 do 6 let na téma "Pavoučí podzim". Těšte se na tematické předčítání a tvoření.\nProjekt BookStart/S knížkou do života\nProjekt na podporu čtení a čtenářských návyků u dětí od nejútlejšího věku. Snaží se rodičům a jiným průvodcům dětí ve čtenářství pomoci zorientovat se v knižním trhu a ukázat jim\, jka mohou s knihami praocovat tak\, aby by to bavilo je i jejich děti.
@@ -36,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20251008T000000
 DTEND;TZID=Europe/Prague:20251009T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1520493146112154599@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-5426671048247160724@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:Workshop: Podzimní svačinky pro děti (5-9 let)
 LOCATION:Knihovna 09.10.2025 - 09.10.2025
 DESCRIPTION:Věk 5-9 Knihovna 09.10.2025 - 09.10.2025\nPředstavte si svět\, kde si dítě umí samo připravit zdravou svačinu\, která mu bude chutnat! :) Nene\, nezbláznili jsme se.\nPřijďte se přesvědčit na podzimní „vaření“ pro rodiče s dětmi od 5 do 9 let (mladší děti - viz akce dopoledne\, tentýž den). Budeme dělat pomazánku z lučiny a mrkve\, děti nazdobí 1 chleba pro maminku a druhý si snědí společně s čajem\, který si připravíme z ovoce.\nInspirace pro rodinku\, stihneme to za hodinku.\nÚčast maminky zde není nutná. Může si dát vedle kávu \;-)\nVezměte s sebou: prkénko\, nůž\, krabičku s víčkem\, v které si odneseš své dílo.\nNutná předchozí rezervace do 8. 10. nebo do naplnění kapacity. Účast zdarma.
@@ -46,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20251009T000000
 DTEND;TZID=Europe/Prague:20251010T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3368283041835214788@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-6459472622807965492@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:Workshop: Podzimní svačinky pro děti a rodiče (1-4 roky)
 LOCATION:Knihovna 09.10.2025 - 09.10.2025
 DESCRIPTION:Věk 1-4 Knihovna 09.10.2025 - 09.10.2025\nPředstavte si svět\, kde si dítě umí samo připravit zdravou svačinu\, která mu bude chutnat! :) Ne ne\, nezbláznili jsme se.\nPřijďte se přesvědčit na podzimní „vaření“ pro rodiče s dětmi od 1 do 4 let (starší děti - viz akce odpoledne\, tentýž den). Pojďme ochutnat pohanku naslano i nasladko – rychlá snídaně\, svačinka či lehká večeře.\nInspirace pro rodinku\, stihneme to za hodinku.\nVezměte s sebou: prkénko\, oblíbený nůž\, 2 jablka (chemicky neošetřená)\, 2 skleničky s víčkem (třeba od dětské výživy) na případné "přebytky".\nNutná předchozí rezervace do 8. 10. nebo do naplnění kapacity. Účast zdarma.
@@ -56,8 +56,8 @@ DTSTART;TZID=Europe/Prague:20251009T000000
 DTEND;TZID=Europe/Prague:20251010T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6941819148685492222@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-2790731096862468158@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:Pohádkové kreslení
 LOCATION:Knihovna 14.10.2025 - 14.10.2025
 DESCRIPTION:Věk 3-99 Knihovna 14.10.2025 - 14.10.2025\nIlustrátorská show Adolfa Dudka pro děti od 3 let. Připravte se na slzy smíchu a rychlo kurz kreslení s nejzábavnějším ilustrátorem všech dob.\nVstup zdarma.
@@ -66,8 +66,18 @@ DTSTART;TZID=Europe/Prague:20251014T000000
 DTEND;TZID=Europe/Prague:20251015T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-8385134767518701819@vrdy
-DTSTAMP:20251007T052747Z
+UID:knihovnavrdy-660977869329642350@vrdy
+DTSTAMP:20251008T052853Z
+SUMMARY:Halloween 2025 - hledáme dobrovolníky
+LOCATION:Knihovna F. V. Lorence Vrdy
+DESCRIPTION:Tupárov Vrdy 26.10.2025 - 26.10.2025\nKomunitní centrum Vrdy hledá dobrovolníky na připravovanou akci pro děti Halloween 2025.\nAkce se uskuteční v neděli 26. 10. od 16:00 do 19:00 v prostorech od vrdovského hřbitova po Tupárov.\nAbych dětem zajistili dostatečně pestrý program a dostatek stanovišť\, rádi bychom požádali veřejnost\, zejména dospělé a případně i děti starší 15 let o spolupráci.\nPokud máte čas a chuť se zapojit\, prosím\, ozvěte se nám na 775 626 188 (Petra Kobelová) nebo 778 427 770 (Lucie Johnová)\, případně na mailu kc.vrdy@gmail.com nebo osobně v otevíracích hodinách Knihovny Vrdy nebo Dětského koutku Dráček.\nPředem všem děkujeme! \;-)
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20251026T000000
+DTEND;TZID=Europe/Prague:20251027T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-8321498427359887602@vrdy
+DTSTAMP:20251008T052853Z
 SUMMARY:Zájezd do divadla: Krásná vzpomínka
 LOCATION:Zájezd 26.10.2025 - 26.10.2025 580 kč
 DESCRIPTION:Věk 15-99 zájezd 26.10.2025 - 26.10.2025 580 Kč\nJaké to je být pianistou nejhorší zpěvačky všech dob? Bizarní příběh Florence Foster Jenkinsové plný živě hrané jazzové i operní hudby.\nČeská premiéra 30. listopadu 2021. Bára Štěpánová se za roli madam Jenkinsové umístila v širší nominaci na Cenu Thálie 2022.\nRezervace míst přednostně přes www.knihovnavrdy.cz/akce nejpozději do pátku 8. 8. 2025\, včetně. Odjezd autobusem v 16:00 z autobusové zastávky u KD Vrdy.\nTermín: neděle 26. 10.\, 19:00-21:10 (odjezd 16:00\, návrat do cca 23:00)\nMísto: Divadlo Ungelt\, Kamenná scéna\, Malá Štupartská 1\, Praha 1 - Staré Město\nHrají: Bára Štěpánová\, Ondřej Brousek\nDélka představení: cca 130 minut\, včetně přestávky\nCeny vstupenek: 560\,- Kč\nUkázka: https://www.youtube.com/watch?v=6MInBKimM_A
