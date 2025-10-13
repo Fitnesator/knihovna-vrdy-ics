@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-2778505763547594964@vrdy
-DTSTAMP:20251012T052618Z
+UID:knihovnavrdy-8910010431241262790@vrdy
+DTSTAMP:20251013T052925Z
 SUMMARY:Výstava: Harmonie života
 LOCATION:Knihovna 03.10.2025 - 31.10.2025
 DESCRIPTION:Věk 0-99 Knihovna 03.10.2025 - 31.10.2025\nSrdečně vás zveme na výstavu místní rodačky Zuzany Bělské v chodbách knihovny Vrdy.\nVernisáž výstavy proběhne v pátek 3. 10. 2025 od 16:30.\nTvořím\, když přijde ten pravý okamžik – s klidem\, radostí a otevřeným srdcem. Malba a kresba jsou pro mě nejen formou vyjádření\, ale především cestou k vnitřní rovnováze. Nejčastěji se ve své tvorbě vracím ke květinám\, krajinám a zvířatům – motivům\, které v sobě nesou přirozenou krásu a klid. S oblibou se také věnuji kresbě mandal a v poslední době i pohádkovým postavám\, které vznikají na přání dětí.\nKaždý obraz je pro mě chvílí zastavení\, odpočinku a propojení s harmonií\, kterou vnímám v přírodě i v sobě.\nBudu ráda\, pokud tuto atmosféru zachytíte i vy.\nDěkuji za zhlédnutí mé tvorby.
@@ -16,18 +16,8 @@ DTSTART;TZID=Europe/Prague:20251003T000000
 DTEND;TZID=Europe/Prague:20251101T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6676717131664312916@vrdy
-DTSTAMP:20251012T052618Z
-SUMMARY:Do knihovny na rok zdarma?!
-LOCATION:Knihovna 06.10.2025 - 10.10.2025
-DESCRIPTION:Knihovna 06.10.2025 - 10.10.2025\nUž 6. října startuje Týden knihoven 2025! Naživo ve vaší oblíbené knihovně i online na www.tydenknihoven.cz Buďte u toho!\nTento týden se mohou noví čtenáři registrovat na rok zdarma. Těšíme se na vás!\nCo pro vás chystáme?\n> registrace pro nové čtenáře na rok zdarma\n> v pondělí a ve středu od 14:00 čtenářské dílničky\n> ve čtvrtek workshopy "vaření" svačinek pro děti\nVíce inforamcí viz samostatné akce
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20251006T000000
-DTEND;TZID=Europe/Prague:20251011T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-7321157056599528258@vrdy
-DTSTAMP:20251012T052618Z
+UID:knihovnavrdy-7074133013915430902@vrdy
+DTSTAMP:20251013T052925Z
 SUMMARY:Pohádkové kreslení
 LOCATION:Knihovna 14.10.2025 - 14.10.2025
 DESCRIPTION:Věk 3-99 Knihovna 14.10.2025 - 14.10.2025\nIlustrátorská show Adolfa Dudka pro děti od 3 let. Připravte se na slzy smíchu a rychlo kurz kreslení s nejzábavnějším ilustrátorem všech dob.\nVstup zdarma.
@@ -36,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20251014T000000
 DTEND;TZID=Europe/Prague:20251015T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3466949217766228905@vrdy
-DTSTAMP:20251012T052618Z
+UID:knihovnavrdy-8019624447697440859@vrdy
+DTSTAMP:20251013T052925Z
 SUMMARY:Halloween 2025 - hledáme dobrovolníky
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Tupárov Vrdy 26.10.2025 - 26.10.2025\nKomunitní centrum Vrdy hledá dobrovolníky na připravovanou akci pro děti Halloween 2025.\nAkce se uskuteční v neděli 26. 10. od 16:00 do 19:00 v prostorech od vrdovského hřbitova po Tupárov.\nAbych dětem zajistili dostatečně pestrý program a dostatek stanovišť\, rádi bychom požádali veřejnost\, zejména dospělé a případně i děti starší 15 let o spolupráci.\nPokud máte čas a chuť se zapojit\, prosím\, ozvěte se nám na 775 626 188 (Petra Kobelová) nebo 778 427 770 (Lucie Johnová)\, případně na mailu kc.vrdy@gmail.com nebo osobně v otevíracích hodinách Knihovny Vrdy nebo Dětského koutku Dráček.\nPředem všem děkujeme! \;-)
@@ -46,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20251026T000000
 DTEND;TZID=Europe/Prague:20251027T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4587803322047076193@vrdy
-DTSTAMP:20251012T052618Z
+UID:knihovnavrdy-9195839846774103988@vrdy
+DTSTAMP:20251013T052925Z
 SUMMARY:Zájezd do divadla: Krásná vzpomínka
 LOCATION:Zájezd 26.10.2025 - 26.10.2025 580 kč
 DESCRIPTION:Věk 15-99 zájezd 26.10.2025 - 26.10.2025 580 Kč\nJaké to je být pianistou nejhorší zpěvačky všech dob? Bizarní příběh Florence Foster Jenkinsové plný živě hrané jazzové i operní hudby.\nČeská premiéra 30. listopadu 2021. Bára Štěpánová se za roli madam Jenkinsové umístila v širší nominaci na Cenu Thálie 2022.\nRezervace míst přednostně přes www.knihovnavrdy.cz/akce nejpozději do pátku 8. 8. 2025\, včetně. Odjezd autobusem v 16:00 z autobusové zastávky u KD Vrdy.\nTermín: neděle 26. 10.\, 19:00-21:10 (odjezd 16:00\, návrat do cca 23:00)\nMísto: Divadlo Ungelt\, Kamenná scéna\, Malá Štupartská 1\, Praha 1 - Staré Město\nHrají: Bára Štěpánová\, Ondřej Brousek\nDélka představení: cca 130 minut\, včetně přestávky\nCeny vstupenek: 560\,- Kč\nUkázka: https://www.youtube.com/watch?v=6MInBKimM_A
@@ -56,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20251026T000000
 DTEND;TZID=Europe/Prague:20251027T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2532125495356704476@vrdy
-DTSTAMP:20251012T052618Z
+UID:knihovnavrdy-4874403633279003266@vrdy
+DTSTAMP:20251013T052925Z
 SUMMARY:Nebeský lívanec
 LOCATION:Knihovna 27.11.2025 - 27.11.2025
 DESCRIPTION:Věk 3-99 Knihovna 27.11.2025 - 27.11.2025\nPohádka o veliké odvaze a přátelství malé hvězdičky a pozemského kluka Jirky.\nVěděli jste\, že slunce není ve skutečnosti slunce\, ale zlatý nebeský lívanec? Každý rok\, v období zimního Slunovratu\, ho peče nebeská babička. Používá na něj zlatou mouku\, která vzniká přitom\, když se lidé radují. Jenže co se stane\, když se jedno dne zjistí\, že právě tato hlavní ingredience chybí?\nHvězdička se rozjede na Zem\, aby zjistila\, proč se lidé neradují. Cestou se setká s Jirkou a stanou se z nich nerozluční kamarádi. Vydají se spolu na průzkum\, ale nebude to úplně jednoduché. Čeká na ně veliké nebezpečí. Lidi totiž trápí noční můry. Podaří se jim nakonec zvítězit a zachránit slunce? Přijďte se podívat…
