@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-4222674620898048552@vrdy
-DTSTAMP:20251211T053443Z
+UID:knihovnavrdy-6193526447465123469@vrdy
+DTSTAMP:20251212T053341Z
 SUMMARY:Vánoční a zimní swap
 LOCATION:Knihovna 18.11.2025 - 12.12.2025
 DESCRIPTION:Věk 0-99 Knihovna 18.11.2025 - 12.12.2025\nPřijď si s námi užít vánoční atmosféru a najít poklady pro sebe a svou rodinu.\nUdržitelně a šetrně pro tvou peněženku i přírodu.\nVýměna i odnos probíhá současně od pondělí 18. 11. do pátku 12. 12. Přinést můžete cokoliv\, co ještě může ostatním udělat radost.\nKdykoliv v otevírací době knihovny či dětského koutku.\nPro více informací nás neváhejte kontaktovat: kc.vrdy@gmail.com
@@ -16,18 +16,8 @@ DTSTART;TZID=Europe/Prague:20251118T000000
 DTEND;TZID=Europe/Prague:20251213T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2312707261237508592@vrdy
-DTSTAMP:20251211T053443Z
-SUMMARY:A3V: Zábavná historie českých světců
-LOCATION:Knihovna 10.12.2025 - 10.12.2025
-DESCRIPTION:Věk 12-99 Knihovna 10.12.2025 - 10.12.2025\nV seznamu našich světců je řada jmen\, která přitahují i dnes zvláštní pozornost. V pořadu Zábavná historie českých světců se budeme věnovat několika neznámějším osobnostem a jejich osudům. Hlavní protagonistou pořadu je pražský arcibiskupský generální vikář\, jehož životní osudy si podrobně přiblížíme.\nLetošní poslední přednáška Akademie třetího věku s Ing. Petrem Šikou.\nPřednášky jsou určeny všem bez rozdílu věku a bez úrovně vzdělání.\nÚčast je zdarma.
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20251210T000000
-DTEND;TZID=Europe/Prague:20251211T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-9130295538233551883@vrdy
-DTSTAMP:20251211T053443Z
+UID:knihovnavrdy-4156298796402829512@vrdy
+DTSTAMP:20251212T053341Z
 SUMMARY:Výstava: Veselé putování židovskou historií
 LOCATION:Knihovna 10.12.2025 - 18.12.2025
 DESCRIPTION:Knihovna 10.12.2025 - 18.12.2025\nVýstava vychází z populárně naučné knihy pro děti Cha cha chá\, zasmál se Mordechaj autora Tobiáše Smolíka a ilustrátora Vojty Šedy. Seznámíte se v ní s dějinami Židů v Čechách a na Moravě. Výstavní panely tvoří vhled do deseti století historie židovského osídlení u nás.\nVýstava je k vidění v chodbách knihovny jen do konce tohoto roku.
@@ -36,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20251210T000000
 DTEND;TZID=Europe/Prague:20251219T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7965057455112810944@vrdy
-DTSTAMP:20251211T053443Z
+UID:knihovnavrdy-5947193824806235150@vrdy
+DTSTAMP:20251212T053341Z
 SUMMARY:Zájezd na muzikál: Anděl páně
 LOCATION:Zájezd 18.12.2025 - 18.12.2025 590 kč
 DESCRIPTION:Věk 8-99 zájezd 18.12.2025 - 18.12.2025 590 Kč\nMuzikál podle stejnojmenné úspěšné filmové pohádky z roku 2005. Anděl Petronel\, popleta a nebeský outsider\, putuje v doprovodu škodolibého čerta Uriáše po Zemi\, aby dokázal Pánu Bohu\, jak lehké je napravovat hříšníky a tím se zároveň sám nedostat do pekla. V pozemském světě způsobí spoustu zmatků\, ale síla lidské lásky\, pevná naděje a všichni svatí nakonec pomohou napravit vše\, co Petronel pokazil. Nakonec se smí i vrátit na nebesa\, protože na poslední chvíli jednoho hříšníka napraví – sám sebe...\nPředstavení je vhodné pro děti od 8 let.\nHudební divadlo Karlín [Velká scéna]\nčtvrtek 18. 12. 2025\, 19:00-21:30 (2\,5 hodiny)\nrezervace do 24. 10.\, 15:00 nebo do naplnění kapacity\nodjezd: 16:00 - autobusová zastávka KD Vrdy\ndoprava: obecní autobus\, doprava zdarma\ncena: 590\,- Kč (1. a 2. balkon)
