@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-4928223473066531999@vrdy
-DTSTAMP:20251213T053207Z
+UID:knihovnavrdy-5357381818497760946@vrdy
+DTSTAMP:20251214T053140Z
 SUMMARY:Výstava: Veselé putování židovskou historií
 LOCATION:Knihovna 10.12.2025 - 18.12.2025
 DESCRIPTION:Knihovna 10.12.2025 - 18.12.2025\nVýstava vychází z populárně naučné knihy pro děti Cha cha chá\, zasmál se Mordechaj autora Tobiáše Smolíka a ilustrátora Vojty Šedy. Seznámíte se v ní s dějinami Židů v Čechách a na Moravě. Výstavní panely tvoří vhled do deseti století historie židovského osídlení u nás.\nVýstava je k vidění v chodbách knihovny jen do konce tohoto roku.
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20251210T000000
 DTEND;TZID=Europe/Prague:20251219T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4880944909752948845@vrdy
-DTSTAMP:20251213T053207Z
+UID:knihovnavrdy-4981551452358760297@vrdy
+DTSTAMP:20251214T053140Z
 SUMMARY:Zájezd na muzikál: Anděl páně
 LOCATION:Zájezd 18.12.2025 - 18.12.2025 590 kč
 DESCRIPTION:Věk 8-99 zájezd 18.12.2025 - 18.12.2025 590 Kč\nMuzikál podle stejnojmenné úspěšné filmové pohádky z roku 2005. Anděl Petronel\, popleta a nebeský outsider\, putuje v doprovodu škodolibého čerta Uriáše po Zemi\, aby dokázal Pánu Bohu\, jak lehké je napravovat hříšníky a tím se zároveň sám nedostat do pekla. V pozemském světě způsobí spoustu zmatků\, ale síla lidské lásky\, pevná naděje a všichni svatí nakonec pomohou napravit vše\, co Petronel pokazil. Nakonec se smí i vrátit na nebesa\, protože na poslední chvíli jednoho hříšníka napraví – sám sebe...\nPředstavení je vhodné pro děti od 8 let.\nHudební divadlo Karlín [Velká scéna]\nčtvrtek 18. 12. 2025\, 19:00-21:30 (2\,5 hodiny)\nrezervace do 24. 10.\, 15:00 nebo do naplnění kapacity\nodjezd: 16:00 - autobusová zastávka KD Vrdy\ndoprava: obecní autobus\, doprava zdarma\ncena: 590\,- Kč (1. a 2. balkon)
