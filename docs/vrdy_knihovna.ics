@@ -6,23 +6,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-872790522466049151@vrdy
-DTSTAMP:20251218T053450Z
+UID:knihovnavrdy-8300527827360190766@vrdy
+DTSTAMP:20251219T053322Z
 SUMMARY:Výstava: Veselé putování židovskou historií
 LOCATION:Knihovna 10.12.2025 - 18.12.2025
 DESCRIPTION:Knihovna 10.12.2025 - 18.12.2025\nVýstava vychází z populárně naučné knihy pro děti Cha cha chá\, zasmál se Mordechaj autora Tobiáše Smolíka a ilustrátora Vojty Šedy. Seznámíte se v ní s dějinami Židů v Čechách a na Moravě. Výstavní panely tvoří vhled do deseti století historie židovského osídlení u nás.\nVýstava je k vidění v chodbách knihovny jen do konce tohoto roku.
 URL:https://www.knihovnavrdy.cz/akce
 DTSTART;TZID=Europe/Prague:20251210T000000
-DTEND;TZID=Europe/Prague:20251219T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-2622989905778115529@vrdy
-DTSTAMP:20251218T053450Z
-SUMMARY:Zájezd na muzikál: Anděl páně
-LOCATION:Zájezd 18.12.2025 - 18.12.2025 590 kč
-DESCRIPTION:Věk 8-99 zájezd 18.12.2025 - 18.12.2025 590 Kč\nMuzikál podle stejnojmenné úspěšné filmové pohádky z roku 2005. Anděl Petronel\, popleta a nebeský outsider\, putuje v doprovodu škodolibého čerta Uriáše po Zemi\, aby dokázal Pánu Bohu\, jak lehké je napravovat hříšníky a tím se zároveň sám nedostat do pekla. V pozemském světě způsobí spoustu zmatků\, ale síla lidské lásky\, pevná naděje a všichni svatí nakonec pomohou napravit vše\, co Petronel pokazil. Nakonec se smí i vrátit na nebesa\, protože na poslední chvíli jednoho hříšníka napraví – sám sebe...\nPředstavení je vhodné pro děti od 8 let.\nHudební divadlo Karlín [Velká scéna]\nčtvrtek 18. 12. 2025\, 19:00-21:30 (2\,5 hodiny)\nrezervace do 24. 10.\, 15:00 nebo do naplnění kapacity\nodjezd: 16:00 - autobusová zastávka KD Vrdy\ndoprava: obecní autobus\, doprava zdarma\ncena: 590\,- Kč (1. a 2. balkon)
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20251218T000000
 DTEND;TZID=Europe/Prague:20251219T000000
 END:VEVENT
 END:VCALENDAR
