@@ -5,14 +5,4 @@ X-WR-TIMEZONE:Europe/Prague
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
-BEGIN:VEVENT
-UID:knihovnavrdy-6467658307956654505@vrdy
-DTSTAMP:20251221T053224Z
-SUMMARY:Výstava: Veselé putování židovskou historií
-LOCATION:Knihovna 10.12.2025 - 18.12.2025
-DESCRIPTION:Knihovna 10.12.2025 - 18.12.2025\nVýstava vychází z populárně naučné knihy pro děti Cha cha chá\, zasmál se Mordechaj autora Tobiáše Smolíka a ilustrátora Vojty Šedy. Seznámíte se v ní s dějinami Židů v Čechách a na Moravě. Výstavní panely tvoří vhled do deseti století historie židovského osídlení u nás.\nVýstava je k vidění v chodbách knihovny jen do konce tohoto roku.
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20251210T000000
-DTEND;TZID=Europe/Prague:20251219T000000
-END:VEVENT
 END:VCALENDAR
