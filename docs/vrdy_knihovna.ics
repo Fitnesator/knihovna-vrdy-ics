@@ -5,4 +5,54 @@ X-WR-TIMEZONE:Europe/Prague
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
+BEGIN:VEVENT
+UID:knihovnavrdy-4938654243949361265@vrdy
+DTSTAMP:20260110T053305Z
+SUMMARY:Karnevalový a kostýmový swap
+LOCATION:Knihovna 12.01.2026 - 27.02.2026
+DESCRIPTION:Věk 0-99 Knihovna 12.01.2026 - 27.02.2026\nMáte doma zbytné kostýmy či masky?\nSháníte masky nebo kostýmy?\nKomunitní centrum Vrdy pro vás připravilo zázemí pro výměnu a darování masek a kostýmů pro děti i dospělé.\nZúčastnit se může každý. Není nutné něco přinést\, abyste si mohli něco odnést. A naopak. Důležité je dát věcem další šanci udělat radost a být k užitku. Smysl nám dává šetřit nejen vaši peněženku\, ale i přírodu.\nAkce pořádáme s finanční podporou Evropské unie a ve spolupráci s MAS Lípa pro venkov.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260112T000000
+DTEND;TZID=Europe/Prague:20260228T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-6170729674429492437@vrdy
+DTSTAMP:20260110T053305Z
+SUMMARY:Hrajeme deskovky MINDOK
+LOCATION:Knihovna 28.01.2026 - 28.01.2026
+DESCRIPTION:Věk 3-99 Knihovna 28.01.2026 - 28.01.2026\nHrajete rádi deskovky?\nPřijďte na hraní her od společnosti MINDOK a třeba i pomozte vybrat nové hry do fondu knihovny
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260128T000000
+DTEND;TZID=Europe/Prague:20260129T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-1114614204176656780@vrdy
+DTSTAMP:20260110T053305Z
+SUMMARY:Otužování 2.0 – Tělo\, mysl a disciplína
+LOCATION:Knihovna 13.02.2026 - 13.02.2026
+DESCRIPTION:Věk 12-99 Knihovna 13.02.2026 - 13.02.2026\nKaždý z nás se někdy ocitne v období\, kdy je toho příliš. Stres\, tlak\, únava. Právě tehdy se ukazuje\, jak silní doopravdy jsme.\nPřednáška Petra Málka ukazuje\, že cesta k odolnosti a vnitřní rovnováze nevede přes výkon\, ale přes porozumění – tělu\, mysli i vlastním návykům.\nZ osobních zkušeností i poznatků z praxe propojuje fyzickou stránku otužování s psychologickými principy zvládání stresu\, sebekontroly a disciplíny.\nCo se na přednášce dozvíte:\nJak tělo reaguje na stres a chlad\nProč je disciplína důležitější než motivace\nJak pracovat s myslí\, když přichází tlak nebo strach\nJak posilovat psychickou odolnost a vnitřní klid\nPřednáška je otevřená všem\, kdo hledají inspiraci\, jak být silnější – ne vůči světu\, ale vůči sobě.\nJe o tom\, že i malé kroky dokážou změnit celý život.\nPetr Málek působí v Armádě ČR u bojové jednotky a má specializaci jako bojový záchranář. Již od roku 2015 se naplno věnuje otužování a studiu fungování lidského organismu při extrémních a zátěžových situacích a podmínkách.\nÚčast na akci je možná bez rezervace místa.\nVstup zdarma.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260213T000000
+DTEND;TZID=Europe/Prague:20260214T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-8822871810395786657@vrdy
+DTSTAMP:20260110T053305Z
+SUMMARY:Jak zvládat emoce dětí a neztratit se ve svých
+LOCATION:Knihovna 16.02.2026 - 16.02.2026
+DESCRIPTION:Věk 18-99 Knihovna 16.02.2026 - 16.02.2026\nKaždý je máme\, ale ne všichni s nimi umíme zacházet. Vztek\, pláč či\nfrustrace u dětí často spustí silné emoce i v nás samotných – a pak je\ntěžké reagovat klidně a s nadhledem. Přijďte se dozvědět více o tom\,\njak nás ovlivňují emoce a jak se s nimi můžeme učit pracovat.\nNa této přednášce se dozvíte:\n- Jak emoce fungují v mozku a těle dětí i dospělých\n- Proč děti někdy „neslyší“\, když jsou zahlcené emocí\n- Jak se učit zvládat vlastní emoce\, abyste mohli lépe pomoci dítěti\n- Jak reagovat na silné emoce dětí s respektem a zároveň s jasnými hranicemi\nSoučástí setkání bude nejen srozumitelná teorie\, ale i praktický\nnácvik konkrétních technik\, které můžete hned použít doma – v klidu i\nv náročných situacích.\nPřednáška je určena rodičům dětí různého věku\, kteří chtějí svým dětem\n(i sami sobě) lépe porozumět a být jim oporou i ve chvílích\, kdy je to\ntěžké.\nAkci pořádáme v rámci cyklu přednášek Komunitního centra Vrdy s psycholožkou Terezou Koutnou.\nÚčast na akci je zdarma. Na akci si prosím předem rezervujte své místo v odkazu níže.\nSpolufinancování Evropskou unií ve spolupráci s MAS Lípa pro venkov.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260216T000000
+DTEND;TZID=Europe/Prague:20260217T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-8084367915669591116@vrdy
+DTSTAMP:20260110T053305Z
+SUMMARY:Loutkové divadlo: Kašpárek v pekle
+LOCATION:Knihovna 26.03.2026 - 26.03.2026
+DESCRIPTION:Věk 3-99 Knihovna 26.03.2026 - 26.03.2026\nKomorní loutková pohádka o nerozhodném Kubovi\, kterému statečný Kašpárek pomůže rozehnat čerty v pekle\, získat princeznu a půlku království.\nVhodné pro děti od 3 let.\nDivadlo Gustav\nDivadlo Gustav bylo založeno v roce 2021 v Táboře\, kde má i své sídlo. Název divadla je odvozen od jména Augustin a nejedná se tedy o žádné politické divadlo\, jak by se třeba mohlo na první pohled zdát \;-) Divadlo Gustav se specializuje na loutková představení (nejen) pro děti. Hraje jak ve školkách\, tak i v divadlech\, kulturních domech\, knihovnách nebo i venku pod širým nebem na různých slavnostech. Stávajícími členy divadla jsou herec Martin Jurajda a produkční Martina Jurajdová.\nMartin Jurajda hraje v divadle Aha (Gong v pražských Vysočanech)\, které se zaměřuje především na dětského diváka. Zkušenosti s loutkou získal díky čtyřletému působení v táborském loutkovém divadle Dokola. Předtím působil v angažmá v Těšínském divadle v Českém Těšíně a v Západočeském divadle v Chebu. Působil v pražském divadle CD 2002 (Divadlo v Celetné) a v Karlovarském městském divadle v Karlových Varech.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260326T000000
+DTEND;TZID=Europe/Prague:20260327T000000
+END:VEVENT
 END:VCALENDAR
