@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-8866186125037135593@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-8863290783717206237@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Karnevalový a kostýmový swap
 LOCATION:Knihovna 12.01.2026 - 27.02.2026
 DESCRIPTION:Věk 0-99 Knihovna 12.01.2026 - 27.02.2026\nMáte doma zbytné kostýmy či masky?\nSháníte masky nebo kostýmy?\nKomunitní centrum Vrdy pro vás připravilo zázemí pro výměnu a darování masek a kostýmů pro děti i dospělé.\nZúčastnit se může každý. Není nutné něco přinést\, abyste si mohli něco odnést. A naopak. Důležité je dát věcem další šanci udělat radost a být k užitku. Smysl nám dává šetřit nejen vaši peněženku\, ale i přírodu.\nAkce pořádáme s finanční podporou Evropské unie a ve spolupráci s MAS Lípa pro venkov.
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20260112T000000
 DTEND;TZID=Europe/Prague:20260228T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6546154917388731755@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-2374975813216211186@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Bookstart 3-6 let #1
 LOCATION:Knihovna 21.01.2026 - 25.03.2026
 DESCRIPTION:Věk 3-36 Knihovna 21.01.2026 - 25.03.2026\nČtenářské dílničky pro děti a jejich rodiče.\nSmyslem setkání je podporovat rodiny v objevování magie příběhů od nejútlejšího věku dítěte. Knížky mohou děti zkoumat všemy smysly. A opravdu to smysl má.\nPřijďte si pohrát obklopeni knížkami. Čeká vás čtení\, tvoření\, hraní a tipy na smysluplné trávení volného času s knihami.
@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20260121T000000
 DTEND;TZID=Europe/Prague:20260326T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6253496972043700352@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-3281202511702147893@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Bookstart 0-3 roky #1
 LOCATION:Knihovna 23.01.2026 - 27.03.2026
 DESCRIPTION:Věk 0-3 Knihovna 23.01.2026 - 27.03.2026\nČtenářské dílničky pro děti a jejich rodiče.\nSmyslem setkání je podporovat rodiny v objevování magie příběhů od nejútlejšího věku dítěte. Knížky mohou děti zkoumat všemy smysly. A opravdu to smysl má.\nPřijďte si pohrát obklopeni knížkami. Čeká vás čtení\, tvoření\, hraní a tipy na smysluplné trávení volného času s knihami.
@@ -36,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20260123T000000
 DTEND;TZID=Europe/Prague:20260328T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7034920890347233837@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-3386492174001146216@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Maminky maminkám
 LOCATION:Knihovna 23.01.2026 - 23.01.2026
 DESCRIPTION:Věk 0-99 Knihovna 23.01.2026 - 23.01.2026\nMaminky maminkám\, ale nejen jim\, je pravidelná akce Komunitního centra Vrdy\, která propojuje ty\, kteří mají co nabídnout s těmi\, kteří se rádi něco nového dozví nebo sebe či své nechají hýčkat.\nAkce není omezena na maminky na mateřské\, ba ani na rodiče na mateřské dovolené. Účastnit se jí může každý\, komu to dává smysl a rád by se zapojil.\nTentokrát se můžete těšit na možnost necht si udělat pedikúru\, barvení obočí\, masáži šíje\, stříhání dětí a připravena je maminka\, která vám poradí\, jaké kurzy využít v době mateřské dovolené a jak při mateřské podnikat. Pro děti bude připravena čtenářská dílničky v rámci projektu Bookstart - S knížkou do života.\nMáte i vy chuť se zapojit a předat ostatním něco ze své profesní zkušenosti? Ozvěte se nám nebo prostě jen přijďte a nabídněte. :)\nZapojení se do programu není povinné. Klidně můžete s dětmi přijít jen užít si společný čas\, pohrát si a dát si dobrou kávu.\nÚčast na akci je zdarma.
@@ -46,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20260123T000000
 DTEND;TZID=Europe/Prague:20260124T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7250617255626180750@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-2701365566363582719@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Hrajeme deskovky MINDOK
 LOCATION:Knihovna 28.01.2026 - 28.01.2026
 DESCRIPTION:Věk 3-99 Knihovna 28.01.2026 - 28.01.2026\nHrajete rádi deskovky?\nPřijďte na hraní her od společnosti MINDOK a třeba i pomozte vybrat nové hry do fondu knihovny
@@ -56,8 +56,8 @@ DTSTART;TZID=Europe/Prague:20260128T000000
 DTEND;TZID=Europe/Prague:20260129T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-242827616038662776@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-4459748324901417823@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Nebát se: Tváře odvahy /výstava/
 LOCATION:Knihovna 04.02.2026 - 25.02.2026
 DESCRIPTION:Věk 0-99 Knihovna 04.02.2026 - 25.02.2026\nSrdečně vás zveme na putovní výstavu Skautského institutu\, která představuje známé osobnosti veřejného života\,\nale i nezlomené hrdiny a hrdinky všedních dnů. Zamýšlí se nad tím\,\n jak bojovat se strachem a kde hledat odvahu.\nVýstava potrvá celý měsíc únor a bude k vidění v chodbách knihovny vždy v otevírací době knihovny nebo dětského koutku.\nVýstava navazuje na knihu Davida Růžičky Nebát se: Rozhovory o strachu a odvaze\, kterou připravil Skautský institut a Nakladatelství Portál.\nO knize:\nNoční hlídka\, stezka odvahy\, večerní hra při svíčkách. Skautská výchova je plná setkání s vlastní odvahou i strachem. Proto jsme se rozhodli toto téma otevřít i pro širší veřejnost.
@@ -66,8 +66,8 @@ DTSTART;TZID=Europe/Prague:20260204T000000
 DTEND;TZID=Europe/Prague:20260226T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5985956142022657159@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-44060684136884472@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Otužování 2.0 – Tělo\, mysl a disciplína
 LOCATION:Knihovna 13.02.2026 - 13.02.2026
 DESCRIPTION:Věk 12-99 Knihovna 13.02.2026 - 13.02.2026\nKaždý z nás se někdy ocitne v období\, kdy je toho příliš. Stres\, tlak\, únava. Právě tehdy se ukazuje\, jak silní doopravdy jsme.\nPřednáška Petra Málka ukazuje\, že cesta k odolnosti a vnitřní rovnováze nevede přes výkon\, ale přes porozumění – tělu\, mysli i vlastním návykům.\nZ osobních zkušeností i poznatků z praxe propojuje fyzickou stránku otužování s psychologickými principy zvládání stresu\, sebekontroly a disciplíny.\nCo se na přednášce dozvíte:\nJak tělo reaguje na stres a chlad\nProč je disciplína důležitější než motivace\nJak pracovat s myslí\, když přichází tlak nebo strach\nJak posilovat psychickou odolnost a vnitřní klid\nPřednáška je otevřená všem\, kdo hledají inspiraci\, jak být silnější – ne vůči světu\, ale vůči sobě.\nJe o tom\, že i malé kroky dokážou změnit celý život.\nPetr Málek působí v Armádě ČR u bojové jednotky a má specializaci jako bojový záchranář. Již od roku 2015 se naplno věnuje otužování a studiu fungování lidského organismu při extrémních a zátěžových situacích a podmínkách.\nÚčast na akci je možná bez rezervace místa.\nVstup zdarma.
@@ -76,8 +76,8 @@ DTSTART;TZID=Europe/Prague:20260213T000000
 DTEND;TZID=Europe/Prague:20260214T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6468251493654293253@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-5391597599637885716@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Jak zvládat emoce dětí a neztratit se ve svých
 LOCATION:Knihovna 16.02.2026 - 16.02.2026
 DESCRIPTION:Věk 18-99 Knihovna 16.02.2026 - 16.02.2026\nKaždý je máme\, ale ne všichni s nimi umíme zacházet. Vztek\, pláč či\nfrustrace u dětí často spustí silné emoce i v nás samotných – a pak je\ntěžké reagovat klidně a s nadhledem. Přijďte se dozvědět více o tom\,\njak nás ovlivňují emoce a jak se s nimi můžeme učit pracovat.\nNa této přednášce se dozvíte:\n- Jak emoce fungují v mozku a těle dětí i dospělých\n- Proč děti někdy „neslyší“\, když jsou zahlcené emocí\n- Jak se učit zvládat vlastní emoce\, abyste mohli lépe pomoci dítěti\n- Jak reagovat na silné emoce dětí s respektem a zároveň s jasnými hranicemi\nSoučástí setkání bude nejen srozumitelná teorie\, ale i praktický\nnácvik konkrétních technik\, které můžete hned použít doma – v klidu i\nv náročných situacích.\nPřednáška je určena rodičům dětí různého věku\, kteří chtějí svým dětem\n(i sami sobě) lépe porozumět a být jim oporou i ve chvílích\, kdy je to\ntěžké.\nAkci pořádáme v rámci cyklu přednášek Komunitního centra Vrdy s psycholožkou Terezou Koutnou.\nÚčast na akci je zdarma. Na akci si prosím předem rezervujte své místo v odkazu níže.\nSpolufinancování Evropskou unií ve spolupráci s MAS Lípa pro venkov.
@@ -86,8 +86,8 @@ DTSTART;TZID=Europe/Prague:20260216T000000
 DTEND;TZID=Europe/Prague:20260217T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5685936496633516157@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-6044578179297797744@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Loutkové divadlo: Kašpárek v pekle
 LOCATION:Knihovna 26.03.2026 - 26.03.2026
 DESCRIPTION:Věk 3-99 Knihovna 26.03.2026 - 26.03.2026\nKomorní loutková pohádka o nerozhodném Kubovi\, kterému statečný Kašpárek pomůže rozehnat čerty v pekle\, získat princeznu a půlku království.\nVhodné pro děti od 3 let.\nDivadlo Gustav\nDivadlo Gustav bylo založeno v roce 2021 v Táboře\, kde má i své sídlo. Název divadla je odvozen od jména Augustin a nejedná se tedy o žádné politické divadlo\, jak by se třeba mohlo na první pohled zdát \;-) Divadlo Gustav se specializuje na loutková představení (nejen) pro děti. Hraje jak ve školkách\, tak i v divadlech\, kulturních domech\, knihovnách nebo i venku pod širým nebem na různých slavnostech. Stávajícími členy divadla jsou herec Martin Jurajda a produkční Martina Jurajdová.\nMartin Jurajda hraje v divadle Aha (Gong v pražských Vysočanech)\, které se zaměřuje především na dětského diváka. Zkušenosti s loutkou získal díky čtyřletému působení v táborském loutkovém divadle Dokola. Předtím působil v angažmá v Těšínském divadle v Českém Těšíně a v Západočeském divadle v Chebu. Působil v pražském divadle CD 2002 (Divadlo v Celetné) a v Karlovarském městském divadle v Karlových Varech.
@@ -96,13 +96,23 @@ DTSTART;TZID=Europe/Prague:20260326T000000
 DTEND;TZID=Europe/Prague:20260327T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1646874450380721123@vrdy
-DTSTAMP:20260115T053720Z
+UID:knihovnavrdy-1271442987732211413@vrdy
+DTSTAMP:20260116T053656Z
 SUMMARY:Divadlo pod hvězdami #4: Sen noci svatojánské / OLDstars
 LOCATION:Knihovna 06.08.2026 - 06.08.2026
 DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČeká nás již 4. ročník Divadla pod hvězdami s uměleckou skupinou OLDstars.\nTentokrát se těšte na legendární klasiku v podání 20 mladých herců: Sen noci svatojánské.\nBližší informace o představení budou doplněny.\nInscenace vhodná pro diváky od … let.\nHraje: -\nPremiéra: -\nVSTUP ZDARMA. OBČERSTVENÍ ZAJIŠTĚNO.\nK dispozici je omezený počet židlí\, možnost zapůjčení deky.\n...\nO OLDstars\nOLDstars z. s. jsou nezávislá umělecká skupina sdružující přes stovku studentů\, převážně ze středních a vysokých uměleckých škol. Za osmnáct let své existence nastudovali přes 300 inscenací a uspořádali 18 ročníků divadelních festivalů. Mezi ně patří benefiční festival OLDstars on the ROUD i Festival studentských divadel v pražském Divadle v Celetné\, které se pravidelně uskutečňují dodnes. Pořádají divadelní turné a jiné kulturní projekty po celé republice. V rámci své pražské činnosti provozují ve Vršovicích dva prostory: sklepní HarOLD v Charkovské ulici a Bytové divadlo H2/O v nedaleké Košické ulici. Pravidelně se účastní studentských divadelních přehlídek a tradiční Noci divadel.\nRepertoár je široce dramaturgicky rozkročený s důrazem na přípravu budoucích profesionálních umělců - kromě klasických titulů a původních dramatizací si Herecké studio vyzkoušelo i autorskou tvorbu. V posledních sezónách se často potkávají s moderní dramatikou. Idea OLDstars vychází ze specifik studentského - tedy generačního divadla. Současné hry vybízejí k experimentu a rezonují s tématy tvůrců i celé společnosti.\nNezávislé studentské divadlo má právo na názor\, pokus i omyl. Chceme být otevřenou platformou studentského kulturního života nejen v Praze.\nVýznamným pilířem v aktivitě OLDstars je komplexní příprava uchazečů pro studium a spolupráce se studenty a čerstvými absolventy prestižních vysokých uměleckých škol (DAMU\, JAMU\, VŠUP\, AVU\, Arts Management VŠE) v nejrůznějších – kreativních i manažerských oborech. Pro nejmladší zájemce vzniklo Dětské D studio OLDstars.\nInspirativní jsou divadelní potkávání našich studentů s profesionály – v inscenacích OLDstars po boku studentů pohostinsky vystoupili: Ljuba Krbová\, Saša Minajev\, Kateřina Březinová\, Miroslav Hanuš\, Daniel Krejčík nebo Elizaveta Maximová.\nDoménou OLDstars je participace studentů na provozu umělecké skupiny\, včetně řízení jednotlivých projektů.\nHistorie\nKmenový soubor vznikal postupně od roku 2002 z absolventů Dismanova rozhlasového dětského souboru při Českém rozhlase. Tehdejší asistenti vedení Tomáš Staněk\, Danka Ouhrabková a Tereza Tobiášová se osamostatnili a vytvořili vlastní nezávislý projekt. Startovní team OLDstars byl tvořen: Petrou Balou\, Mirkem Beránkem\, Marjou Helebrantovou\, Markétou Ježkovou\, Lenkou Kohoutovou\, Jirkou Konvalinkou\, Aškou Košťálovou (Luhanovou)\, Tomášem Kotrbou\, Karlem Kratochvílem\, Matějem Křístkem\, Martinem Stevem Luhanem\, Matějem Morávkem\, Kačkou Odarčenkovou\, Adamem Rutem\, Madlou Rutovou\, Ančou Řezníčkovou\, Jakubem Štěpánem\, Veronikou Tůmovou\, Veronikou Vichnarovou a Kačkou Wienerovou.\nOLDstars inscenují nejrůznější texty české i světové dramatiky\, pořádají scénická čtení\, divadelní happeningy a koncerty\, organizují benefiční divadelní festivaly - v klášteře v Roudnici nad Labem\, na hradě Helfenburk u Bavorova\, nebo festival studentského divadla v Divadle v Celetné. Pořádali festival studentských kapel Ve3fest a na Vltavě v létě 2014 provozovali kulturní plavidlo BarOnLoď.Kromě Hereckého studia skupina nabízí pro zájemce úspěšné přípravné kurzy na umělecké střední a vysoké školy. Pro ty nejmladší vzniklo dětské D studio OLDstars.
 URL:https://www.knihovnavrdy.cz/akce
 DTSTART;TZID=Europe/Prague:20260806T000000
 DTEND;TZID=Europe/Prague:20260807T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-3005577684498620525@vrdy
+DTSTAMP:20260116T053656Z
+SUMMARY:Pan Kaplan má třídu rád
+LOCATION:Zájezd 22.11.2026 - 22.11.2026 759 kč
+DESCRIPTION:Věk 10-99 zájezd 22.11.2026 - 22.11.2026 759 Kč\nKnihovna Vrdy srdečně zve na zájezd divadla:\nDivadelní adaptace humoristického románu Leo Rostena\, který si zamilovali čtenáři po celém světě. Inscenace je plná slovních hříček\, komických situací a písniček v mnoha světových jazycích\, které herci nejen živě zpívají\, ale také se sami doprovází na hudební nástroje.\nHrají: Miroslav Hanuš\, Jaroslav Slánský\, Ludmila Molínová a další\nPremiéra: 26. 3. 2026\nDivadlo: Divadlo Na Fidlovačce\, Křesomyslova 625/4\, Praha 4\nDatum a čas: neděle 22. 11.\, 15:00\nOdjezd a návrat: 12:00 - cca 19:30\nCena: 759\,- Kč/vstupenku (včetně 20% slevy)\, rezervovány řady 8.\, 9.\, 10.\nDoprava: zdarma\nOdjezd: autobusová zastávka u KD Vrdy (12:00)\, další v Dolních Bučicích\, případné další zastávky po domluvě\nZávazná rezervace míst nejpozději do pátku 30. 1. 2026 nebo do naplnění kapacity.\nRezervace pouze přes rezervační systém knihovny - tlačítko "Přihlásit online" na pravé straně této webové stránky.\nVíce o představení:\nDivadelní adaptace humoristického románu\, který si zamilovali čtenáři po celém světě. Vytrvalá snaha pana Hymana Kaplana a jeho spolužáků z večerního kurzu ovládnout co nejlépe (nebo alespoň nějak) anglický jazyk přináší spoustu nedorozumění\, slovních hříček a komických situací! Houževnatý i zmatený hlavní hrdina\, který touží prostě někam patřit\, vás chytne za srdce ačkoli „nevyslovuje špatně – vyslovuje jinak.“\nInscenace je nabitá písněmi v mnoha světových jazycích\, které herci nejen živě zpívají\, ale také se sami doprovází na hudební nástroje.\nOdkaz na představení na webu divadla: https://www.fidlovacka.cz/repertoar/pan-kaplan-ma-tridu-rad
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20261122T000000
+DTEND;TZID=Europe/Prague:20261123T000000
 END:VEVENT
 END:VCALENDAR
