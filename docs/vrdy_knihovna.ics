@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-640220938379654426@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-212086735344179610@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Zelený swap: Semínka a pokojovky
 LOCATION:Knihovna 04.02.2026 - 31.03.2026
 DESCRIPTION:Věk 0-99 Knihovna 04.02.2026 - 31.03.2026\nÚnorová výsadba už klepe na dveře! Blíží se čas na sdílení pěstitelských pokladů.\nJak to funguje?\nPrincip je jednoduchý: přineste to\, co vám přebývá\, a odneste si to\, co vám udělá radost. Vybírat můžete z pestré nabídky osiva i pokojových rostlin od ostatních nadšenců.\nProč ještě se zapojit?\nSpolečně tak můžeme smysluplně recyklovat a šířit radost z pěstování dál. Pojďme těmito živými dary společně prozářit i ty nejšedivější zimní dny. Každý nový lístek v bytě nám pomůže zkrátit čekání na vytoužené jaro. Je to skvělá příležitost\, jak potkat sousedy se stejnou vášní a vyměnit si cenné rady. Akce je otevřená pro každého\, ať už jste zkušení zahradníci\, nebo s pěstováním teprve začínáte. Těšíme se\, že společně vytvoříme kousek zelené džungle přímo u nás!\nKdy to celé vypukne?\n2. 3. - 31. 3.: můžete přinést své poklady\, vybírat i odnášet\nProbíhá vždy v otevíracích hodinách knihovny/dětského koutku.\nCo můžu přinést a na co se těšit:\n- semínka květin i zeleniny\n- řízky pokojovek\n- pokojovky v květináči\n- přebytky z domácích zavařenin\n- mikrobylinky\n- keramické nebo terakotové květináče\, obaly na květiny\, rozprašovače\, minipařníky\, zahradnické náčiní a vše další\, co vás napadne\, spojené s pěstováním a výsadbou
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20260204T000000
 DTEND;TZID=Europe/Prague:20260401T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1169757848964352138@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-4029083626506277487@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Odlož mobil a vyhraj iPad!
 LOCATION:Knihovna 05.02.2026 - 31.03.2026
 DESCRIPTION:Věk 0-99 Knihovna 05.02.2026 - 31.03.2026\nOdevzdejte v knihovně vysloužilé elektrozařízení a vyhrajte Apple iPad Air 11.\n"Odlož mobil v knihovně" je společný projekt neziskové organizace ASEKOL a Středočeského kraje\, jehož smyslem je rozšíření povědomí o třídění vysloužilého drobného elektrozařízení.\nCílem kampaně je oslovit čtenáře všech věkových kategorií s osvětou o tom\, že třídění drobného vysloužilého elektrozařízení má opravdu smysl\, co se následně děje s odevzdaným elektrozařízením a kde mohou vysloužilé elektro odevzdávat.\nODEVZDEJ vysloužilé mobilní zařízení (mobil\, tablet\, chytré hodinky...) v knihovně a VYHRAJ\n- Apple iPad Air 11 (se značkovým obalem a perem Apple Pencil)\n- nebo poukázku na nákup knih až za 2000 Kč\n- nebo volné vstupenky pro pět osob do galerie nebo muzea ve Středočeském kraji!\nSoutěž probíhá od 1. prosince 2025 do 1. dubna 2026. Vyhlášení výsledků proběhne v dubnu 2026.\nLetáčky\, díky kterým se do soutěže zapojíte\, si můžete vyzvednout v naší knihovně. Box na odložené přístroje je z bezpečnostních důvodů uložen v kanceláři knihovny a je dostupný jen v otevíracích hodinách.\nVšechny přístroje budou předány k odborné recyklaci nebo využití na náhradní díly včetně likvidace osobních dat.\nHARMONOGRAM akce:\n1. 12. 2025 - Spuštění sběrové akce\, soutěžící knihovny a úřady se mohou začít registrovat\n1. 12. 2025 - Začíná sběr mobilních zařízení na sběrných místech\n31. 1. 2026 - Přihlašování dalších knihoven a úřadů končí\n1. 4. 2026 - Sběr vysloužilého drobného elektra na sběrných místech ukončen\n1.-15. 4. 2026 - Svoz mobilních zařízení ze sběrných míst\n21. 4. 2026 - Vyhodnocení soutěže a vyhlášení vítězů\; následně předání cen vítězným knihovnám a vylosovaným jednotlivcům\nMáte otázky?\nOdpovědi na nejčastější otázky naleznete zde: https://www.odlozmobil.cz/faq-/
@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20260205T000000
 DTEND;TZID=Europe/Prague:20260401T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3814484908290465035@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-1605602721980566689@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Výstava obrazů/Janka Musilová
 LOCATION:Knihovna 02.03.2026 - 30.04.2026
 DESCRIPTION:Věk 0-99 Knihovna 02.03.2026 - 30.04.2026\nKnihovna Vrdy srdečně zve na výstavu Janky Musilové\, současné lektorky kroužku výtvarné výchovy pro děti\, který v knihovně pořádáme.\nVýstavu bude možné zhlédout v chodbách knihovny od pondělí 2. března do čtvrtka 30. dubna.\nPokud byste měli zájem si některý z obrazů zakoupit\, kontaktujte prosím přímo paní Musilovou (telefon: 603 430 276\, email: yamana299@gmail.com\, lze i přes WhatsApp). Autorčinu tvorbu si můžete prohlédnout také na jejím IG pod jménem jankamu13.\nCo o sobě Janka Musilová prozradí?\nDruhým rokem se věnuji malování technikou akvarelu. Maluji přírodní motivy\, hlavně květiny. Akvarel je krásný způsob vyjádření hlubokých pocitů\, když slova nestačí. Za posledních pár měsíců jsem namalovala kolekci obrazů a formou výstavy bych se o ně ráda podělila.
@@ -36,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20260302T000000
 DTEND;TZID=Europe/Prague:20260501T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5185848713423556938@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-4009262556454230528@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:A3V: Zábavná historie Václava IV.
 LOCATION:Knihovna 18.03.2026 - 18.03.2026
 DESCRIPTION:Věk 12-99 Knihovna 18.03.2026 - 18.03.2026\nSrdečně zveme na další přednášku Akademie třetího věku Ing. Petra Šiky.\nLetošní ročník bude zahájen tématem "Zábavná historie Václava IV." Nenechte si ujít zajímavosti nejvýznamnějšího českého panovníka a "Otce vlasti"\, který pozvedl české království na evropskou úroveň.
@@ -46,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20260318T000000
 DTEND;TZID=Europe/Prague:20260319T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-830556668354682889@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-1936178602123606934@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Deskovky pro mozek a mozkohrátky
 LOCATION:Knihovna 18.03.2026 - 18.03.2026
 DESCRIPTION:Věk 0-99 Knihovna 18.03.2026 - 18.03.2026\nVíte\, že hraním (deskových) her lze podpořit a rozvíjet paměť i soustředění v každém věku?\nSpojete příjemné s užitečným\, vezměte děti\, rodiče\, kamarády\, prarodiče a přijďte si pro tipy na hry\, které můžete hrát už s nejmenšími dětmi v rodině a podporovat tak jejich zdravý rozvoj a nebo na hry pro trénink paměti ve starším věku.\nHry bude možné si na místě vyzkoušet\, zahrát a poradit se s lektorkou trénování paměti\, Mgr. Hankou Veselou\, která je už několikátým rokem naší lektorskou stálicí kurzu Trénování paměti.\nAkci pořádáme ve spolupráci s Českou společností pro trénování paměti a mozkový jogging\, a v návaznosti na Národní týden trénování paměti (9.-15. března 2026)\, který se uskuteční v rámci celosvětové akce Týden uvědomění si mozku (Brain Awareness Week).
@@ -56,8 +56,8 @@ DTSTART;TZID=Europe/Prague:20260318T000000
 DTEND;TZID=Europe/Prague:20260319T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7429897796077606207@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-3392701194658270153@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Bookstart 3-6 let #2
 LOCATION:Knihovna 25.03.2026 - 25.03.2026
 DESCRIPTION:Věk 3-36 Knihovna 25.03.2026 - 25.03.2026\nČtenářské dílničky pro děti a jejich rodiče.\nSmyslem setkání je podporovat rodiny v objevování magie příběhů od nejútlejšího věku dítěte. Knížky mohou děti zkoumat všemy smysly. A opravdu to smysl má.\nPřijďte si pohrát obklopeni knížkami. Čeká vás čtení\, tvoření\, hraní a tipy na smysluplné trávení volného času s knihami.
@@ -66,8 +66,8 @@ DTSTART;TZID=Europe/Prague:20260325T000000
 DTEND;TZID=Europe/Prague:20260326T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7004345793116339444@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-2700171691410164602@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Loutkové divadlo: Kašpárek v pekle
 LOCATION:Knihovna 26.03.2026 - 26.03.2026
 DESCRIPTION:Věk 3-99 Knihovna 26.03.2026 - 26.03.2026\nKomorní loutková pohádka o nerozhodném Kubovi\, kterému statečný Kašpárek pomůže rozehnat čerty v pekle\, získat princeznu a půlku království.\nVhodné pro děti od 3 let.\nDivadlo Gustav\nDivadlo Gustav bylo založeno v roce 2021 v Táboře\, kde má i své sídlo. Název divadla je odvozen od jména Augustin a nejedná se tedy o žádné politické divadlo\, jak by se třeba mohlo na první pohled zdát \;-) Divadlo Gustav se specializuje na loutková představení (nejen) pro děti. Hraje jak ve školkách\, tak i v divadlech\, kulturních domech\, knihovnách nebo i venku pod širým nebem na různých slavnostech. Stávajícími členy divadla jsou herec Martin Jurajda a produkční Martina Jurajdová.\nMartin Jurajda hraje v divadle Aha (Gong v pražských Vysočanech)\, které se zaměřuje především na dětského diváka. Zkušenosti s loutkou získal díky čtyřletému působení v táborském loutkovém divadle Dokola. Předtím působil v angažmá v Těšínském divadle v Českém Těšíně a v Západočeském divadle v Chebu. Působil v pražském divadle CD 2002 (Divadlo v Celetné) a v Karlovarském městském divadle v Karlových Varech.
@@ -76,8 +76,8 @@ DTSTART;TZID=Europe/Prague:20260326T000000
 DTEND;TZID=Europe/Prague:20260327T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-9153428131771782351@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-195611594595076444@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Bookstart 0-3 roky #2
 LOCATION:Knihovna 27.03.2026 - 27.03.2026
 DESCRIPTION:Věk 0-3 Knihovna 27.03.2026 - 27.03.2026\nČtenářské dílničky pro děti a jejich rodiče.\nSmyslem setkání je podporovat rodiny v objevování magie příběhů od nejútlejšího věku dítěte. Knížky mohou děti zkoumat všemy smysly. A opravdu to smysl má.\nPřijďte si pohrát obklopeni knížkami. Čeká vás čtení\, tvoření\, hraní a tipy na smysluplné trávení volného času s knihami.
@@ -86,8 +86,8 @@ DTSTART;TZID=Europe/Prague:20260327T000000
 DTEND;TZID=Europe/Prague:20260328T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3082604003382110398@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-8990120097357803217@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Smysly zvířat
 LOCATION:Knihovna 28.03.2026 - 28.03.2026
 DESCRIPTION:Věk 0-99 Knihovna 28.03.2026 - 28.03.2026\nOriginální přednáška manželů Lenky a Ondry Pelikánových z Obory Žleby (nebo také Záchranné stanice Lipec).\nV zábavné přednášce se děti dozví\, jaké zvláštní schopnosti využívají zvířata v přírodě kolem nás. Jednotlivé smysly a dovednosti vám představí ve spolupráci s jejich svěřenci. Těšte se na osobní setkání s netopýrem\, švábem\, ježkem\, sovou nebo třeba užovkou.\nAkci pořádáme zdarma. V první řadě jako poděkování všem\, kteří se chystají zúčastnit celostátní akce Uklďme naši obec\, která proběhne ve stejný den dopoledne od 9:00 do 11:30 ve spolupráci s Komunitním centrem Vrdy.\nPřednášky se ovšem může zúčastnit každý.
@@ -96,8 +96,8 @@ DTSTART;TZID=Europe/Prague:20260328T000000
 DTEND;TZID=Europe/Prague:20260329T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6690700802290363297@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-4669879806379451781@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Ukliďme Česko - Ukliďme Vrdy
 LOCATION:Knihovna 28.03.2026 - 28.03.2026
 DESCRIPTION:Věk 0-99 Knihovna 28.03.2026 - 28.03.2026\nUkliďme Česko je dobrovolnická úklidová akce\, která probíhá na území celé České republiky (a dokonce na pár místech mimo ni). Jejím cílem je uklidit nelegálně vzniklé černé skládky a nepořádek.\nKomunitní centrum Vrdy se do této akce zapojuje již několikátým rokem. Vítáni jsou nejen dospělí\, ale také rodiny nebo jen děti\, které se tak učí odpovědnému zacházení s odpadem.\nSraz je v 9:00 před knihovnou (Tylova 25\, DB). Pytle i rukavice pro děti i dospělé budou zajištěny.\nPo akci se již tradičně od 13:00 koná přednáška manželů Pelikánových Smysly zvířat\, kde se děti mohou tváří v tvář setkat s jejich chráněnci ze Záchranné stanice Lipec nebo Obory Žleby. Těšit se mohou na živého ježka\, sovu\, hada nebo netopýra.\nVstup na akci je zdarma.
@@ -106,8 +106,18 @@ DTSTART;TZID=Europe/Prague:20260328T000000
 DTEND;TZID=Europe/Prague:20260329T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7345499478618782593@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-9153340116993985862@vrdy
+DTSTAMP:20260301T060008Z
+SUMMARY:Jak jsem přežil na Srí Lance
+LOCATION:Knihovna 10.04.2026 - 10.04.2026
+DESCRIPTION:Věk 12-99 Knihovna 10.04.2026 - 10.04.2026\nJiří KAFÍNO Kafka. Atypický sólo cestovatel. Poprvé bez cestovky až v padesáti… Opustil úspěšnou kariéru fotbalového trenéra a začal objevovat svět. Bez znalosti jazyků a sim karty. Zajímá ho život obyčejných lidí\, jejich zvyky a kultura. O svých každodenních zážitcích\, ale i těch těžko uvěřitelných\, rád poutavě\, se směsicí suchého humoru vypráví na svých cestopisných show.\nZnáte Cejlon? Ostrov ležící poblíž Indie se již několik desítek let jmenuje Srí Lanka.Dechberoucí příroda\, nekonečné čajové plantáže\, přesuny ikonickými vlaky horskými scenériemi\, zážitky s barevnými retro autobusy\, setkání se slony a opicemi\, ochutnávky místních kulinářských specialit\, prozkoumání historických staveb\, návštěvy budhistických chrámů a posvátných hor\, ale hlavně poznání\, že život máme jen jeden a je tak krásný!
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260410T000000
+DTEND;TZID=Europe/Prague:20260411T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-1612328469282133490@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:LiStOVáNí/ Flouk a Líla
 LOCATION:Knihovna 20.04.2026 - 20.04.2026
 DESCRIPTION:Věk 3-99 Knihovna 20.04.2026 - 20.04.2026\nPohádkový příběh o velikém přátelství počítačové myši a kouzelného kocoura.\nVíte\, děti\, že myš Líla není obyčejná\, ale počítačová? Jenže v kanceláři ji to moc nebaví\, a tak si hledá kamarády ve skutečném světě. Jenom pozor na toho protivného kocoura Flouka\, co tu v mrakodrapu skoro bydlí a rád by se dostal do počítače. Páni\, ono se mu to vážně povedlo! A když už tam je\, zkusí si v něm nejdřív zajít na záchod. Fúúúj! A navíc se tam popere. Ještě že je tu myš Líla\, která to s počítačem tak umí! Moderní pohádka pro děti o tom\, jak se liší náš skutečný svět a virtuální realita.\nVstup zdarma.\nRezervace místa výhodou\, kapacita omezena.\nCo je to LiStOVáNí?\nCyklus scénických čtení aneb knížky na jevišti.\nProjekt LiStOVáNí představuje každý měsíc zajímavé a aktuální knihy. Vybraní autoři a jejich dílo či přímo specifická kniha jsou pak před diváky interpretováni v podobě scénického čtení. Jde vždy přibližně o hodinové divadelní vystoupení\, ve kterém je přenášen děj knihy\, jazyk autora a atmosféra dané literatury na obecenstvo\, které se v čele s mladou generací ve světě oproštěném od kultury a literatury vrací zpět k tomu\, co tu bylo první - knize. Nejde o nějaké fanzinové čtení oblíbených pasáží\, jde o dýchající představení s rekvizitami\, kostýmy\, hudbou\, začátkem a koncem. Za šíření čtení a čtenářství mělo ve svém čase LiStOVáNí záštitu Ministerstva školství.\nZa mimořádný přínos v oblasti propagace čtenářství získalo LiStOVáNí cenu Nadace Český literární fond.
@@ -116,8 +126,8 @@ DTSTART;TZID=Europe/Prague:20260420T000000
 DTEND;TZID=Europe/Prague:20260421T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4744653309463541399@vrdy
-DTSTAMP:20260228T054403Z
+UID:knihovnavrdy-5929583602947496781@vrdy
+DTSTAMP:20260301T060008Z
 SUMMARY:Divadlo pod hvězdami #4: Sen noci svatojánské / OLDstars
 LOCATION:Knihovna 06.08.2026 - 06.08.2026
 DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČeká nás již 4. ročník Divadla pod hvězdami s uměleckou skupinou OLDstars.\nTentokrát se těšte na legendární klasiku v podání 20 mladých herců: Sen noci svatojánské.\nBližší informace o představení budou doplněny.\nInscenace vhodná pro diváky od … let.\nHraje: -\nPremiéra: -\nVSTUP ZDARMA. OBČERSTVENÍ ZAJIŠTĚNO.\nK dispozici je omezený počet židlí\, možnost zapůjčení deky.\n...\nO OLDstars\nOLDstars z. s. jsou nezávislá umělecká skupina sdružující přes stovku studentů\, převážně ze středních a vysokých uměleckých škol. Za osmnáct let své existence nastudovali přes 300 inscenací a uspořádali 18 ročníků divadelních festivalů. Mezi ně patří benefiční festival OLDstars on the ROUD i Festival studentských divadel v pražském Divadle v Celetné\, které se pravidelně uskutečňují dodnes. Pořádají divadelní turné a jiné kulturní projekty po celé republice. V rámci své pražské činnosti provozují ve Vršovicích dva prostory: sklepní HarOLD v Charkovské ulici a Bytové divadlo H2/O v nedaleké Košické ulici. Pravidelně se účastní studentských divadelních přehlídek a tradiční Noci divadel.\nRepertoár je široce dramaturgicky rozkročený s důrazem na přípravu budoucích profesionálních umělců - kromě klasických titulů a původních dramatizací si Herecké studio vyzkoušelo i autorskou tvorbu. V posledních sezónách se často potkávají s moderní dramatikou. Idea OLDstars vychází ze specifik studentského - tedy generačního divadla. Současné hry vybízejí k experimentu a rezonují s tématy tvůrců i celé společnosti.\nNezávislé studentské divadlo má právo na názor\, pokus i omyl. Chceme být otevřenou platformou studentského kulturního života nejen v Praze.\nVýznamným pilířem v aktivitě OLDstars je komplexní příprava uchazečů pro studium a spolupráce se studenty a čerstvými absolventy prestižních vysokých uměleckých škol (DAMU\, JAMU\, VŠUP\, AVU\, Arts Management VŠE) v nejrůznějších – kreativních i manažerských oborech. Pro nejmladší zájemce vzniklo Dětské D studio OLDstars.\nInspirativní jsou divadelní potkávání našich studentů s profesionály – v inscenacích OLDstars po boku studentů pohostinsky vystoupili: Ljuba Krbová\, Saša Minajev\, Kateřina Březinová\, Miroslav Hanuš\, Daniel Krejčík nebo Elizaveta Maximová.\nDoménou OLDstars je participace studentů na provozu umělecké skupiny\, včetně řízení jednotlivých projektů.\nHistorie\nKmenový soubor vznikal postupně od roku 2002 z absolventů Dismanova rozhlasového dětského souboru při Českém rozhlase. Tehdejší asistenti vedení Tomáš Staněk\, Danka Ouhrabková a Tereza Tobiášová se osamostatnili a vytvořili vlastní nezávislý projekt. Startovní team OLDstars byl tvořen: Petrou Balou\, Mirkem Beránkem\, Marjou Helebrantovou\, Markétou Ježkovou\, Lenkou Kohoutovou\, Jirkou Konvalinkou\, Aškou Košťálovou (Luhanovou)\, Tomášem Kotrbou\, Karlem Kratochvílem\, Matějem Křístkem\, Martinem Stevem Luhanem\, Matějem Morávkem\, Kačkou Odarčenkovou\, Adamem Rutem\, Madlou Rutovou\, Ančou Řezníčkovou\, Jakubem Štěpánem\, Veronikou Tůmovou\, Veronikou Vichnarovou a Kačkou Wienerovou.\nOLDstars inscenují nejrůznější texty české i světové dramatiky\, pořádají scénická čtení\, divadelní happeningy a koncerty\, organizují benefiční divadelní festivaly - v klášteře v Roudnici nad Labem\, na hradě Helfenburk u Bavorova\, nebo festival studentského divadla v Divadle v Celetné. Pořádali festival studentských kapel Ve3fest a na Vltavě v létě 2014 provozovali kulturní plavidlo BarOnLoď.Kromě Hereckého studia skupina nabízí pro zájemce úspěšné přípravné kurzy na umělecké střední a vysoké školy. Pro ty nejmladší vzniklo dětské D studio OLDstars.
