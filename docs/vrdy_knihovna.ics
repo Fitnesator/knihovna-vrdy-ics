@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-7102573554853981430@vrdy
-DTSTAMP:20260507T074944Z
+UID:knihovnavrdy-2134471014952825530@vrdy
+DTSTAMP:20260508T065737Z
 SUMMARY:Havel90_Havel v kostce/výstava
 LOCATION:Knihovna 23.04.2026 - 20.05.2026
 DESCRIPTION:Věk 0-99 Knihovna 23.04.2026 - 20.05.2026\nVýstava Havel v kostce >>>\nKoláž z textů\, dokumentů a fotografií zachycující Václava Havla jako dítě z bohaté podnikatelské rodiny\, přemýšlivého teenagera\, kulisáka\, divadelníka\, vězně svědomí\, posledního československého a prvního českého prezidenta\, občana\, obhájce lidských práv a jednu z klíčových postav historie 2. poloviny 20. století.\n...\nČteme Havla//Havel90 >>>\nV roce 2026 si připomínáme nedožité 90. narozeniny Václava Havla – dramatika\, esejisty\, disidenta a prvního prezidenta České republiky. Přijďte si připomenout jeho myšlenky\, které inspirují dodnes.\nPřipravena bude výstava Havel v kostce a k zapůjčení budou k dispozcii publikace z Knihovna Václava Havla\, které mapují jeho činnost.\nPokud byste se rádi dozvěděli více nebo zúčastnili dalších akcí\, rádi odkazujeme na:\nhttps://havel90.cz/\nNa podzim chystáme další akce k připomenutí Havla jako osobnosti.
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20260423T000000
 DTEND;TZID=Europe/Prague:20260521T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6259819654987377169@vrdy
-DTSTAMP:20260507T074944Z
+UID:knihovnavrdy-4896726654087239601@vrdy
+DTSTAMP:20260508T065737Z
 SUMMARY:Český den proti rakovině
 LOCATION:Knihovna 13.05.2026 - 17.05.2026
 DESCRIPTION:Věk 0-99 Knihovna 13.05.2026 - 17.05.2026\nCo je Český den proti rakovině?\nPravidelná akce Ligy proti rakovině na podporu osvěty o nádorovém onemocnění a s možností finanční podpory boje proti rakovině. Naše knihovna se k němu připojí i tento rok.\nČeský den proti rakovině se koná ve středu 13. května. V naší knihovně se do něj můžete zapojit v časech 8:00-11:00 a 15:00-18:00 a probíhat u nás bude i v pátek 15. května v čase 13:00-15:00. Po předchozí domluvě ale kdykoliv od středy do pátku.\nDobrovolníci při Českém dni proti rakovině rozdávají letáčky s informacemi o prevenci nádorových onemocnění (v letošním roce se zaměřením na nádory hlavy a krku a na preventivní screeningové programy) a nabízejí žluté kytičky s barevnou stužkou (letos světle fialová) za dobrovolný příspěvek (v minimální výši 20 Kč).\nPeníze získané za kytičky využívá Liga proti rakovině na nádorovou prevenci\, zlepšení kvality života onkologických pacientů\, podporu onkologického výzkumu a vybavení onkologických center.\nRakovina je bohužel nedílnou součástí našich životů - onemocní každý třetí občan\nČR a téměř třetina nemocných zemře. A právě díky prevenci je možné se velké části\nonemocnění i úmrtí úspěšně vyhnout! Proto by Liga proti rakovině ráda pokračovala ve své práci především v této oblasti (prevence nádorových onemocnění a podpora onkologických pacientů) a doufá\, že úspěch letošní sbírky jí to umožní.\nPosláním dárcovské SMS ve tvaru DMS KVET 30 nebo DMS KVET 60 nebo DMS KVET 90 nebo DMS KVET 190 nebo DMS KVET 290 nebo DMS KVET 490 na číslo 87 777 můžete získat e-kytičku a podpořit tak Český den proti rakovině. Cena DMS je 30 / 60 / 90 / 190 / 290 / 490 Kč\, LPR Praha obdrží 29 / 59 / 89 /189 / 289 / 489 Kč. Pomáhat nám můžete také pravidelně každý měsíc odesláním DMS TRV KVET 30 nebo DMS TRV KVET 60 nebo DMS TRV KVET 90 nebo DMS TRV KVET 190 nebo DMS TRV KVET 290 nebo DMS TRV KVET 490.\nVíce informací o e-kytičkách najdete na www.cdpr.cz/dms.\nNa sbírkový účet Českého dne proti rakovině 65 000 65 / 0300 je možné přispívat do 30. 11. 2026.\nCeloročně můžete podpořit projekty Ligy proti rakovině příspěvkem na běžný účet 8888 88 8888/0300.\nPředem děkujeme za podporu!\nLiga proti rakovině Praha předem děkuje všem dárcům za podporu!
@@ -26,8 +26,28 @@ DTSTART;TZID=Europe/Prague:20260513T000000
 DTEND;TZID=Europe/Prague:20260518T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3385708828282567682@vrdy
-DTSTAMP:20260507T074944Z
+UID:knihovnavrdy-5793795738967044101@vrdy
+DTSTAMP:20260508T065737Z
+SUMMARY:Čtvrtstoletí s fotografií /vernisáž 22. 5./
+LOCATION:Knihovna 22.05.2026 - 19.06.2026
+DESCRIPTION:Věk 0-99 Knihovna 22.05.2026 - 19.06.2026\nPetr Vesecký\, místní rodák a člen Fotoklubu Čáslav\, srdečně zve na svou retrospektivní výstavu fotografií s názvem Čtvrtstoletí s fotografií. V chodbách knihovny ji budete moci zhlédnout od 22. 5. do 19. 6. 2026.\nVeřejná vernisáž výstavy proběhne v pátek 22. 5. od 18:00.\nVstup na výstavu i vernisáž je zdarma.\nPetr je členem čáslavského Fotoklubu od roku 2004 a fotografuje především zátiší a krajinu. Rád použije analog včetně celého mokrého procesu. V roce 2017 byl také jedním z lektorů příměstského fotografického tábora při knihovně.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260522T000000
+DTEND;TZID=Europe/Prague:20260620T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-4376046931333926602@vrdy
+DTSTAMP:20260508T065737Z
+SUMMARY:Pevné pouto\, volná křídla
+LOCATION:Knihovna 08.06.2026 - 08.06.2026
+DESCRIPTION:Věk 18-99 Knihovna 08.06.2026 - 08.06.2026\nPevné pouto\, volná křídla - Psychologický průvodce vývojem dítěte do 6 let. Další z cyklu přednášek s psycholožkou Terezou Koutnou.\nDěti se bohužel nerodí s manuálem. Co kdyby ale existovaly ověřené psychologické poznatky\, které vám pomohou lépe pochopit\, co se vlastně odehrává v jejich hlavičkách?\nPrvních šest let života je naprosto klíčových – právě teď se rozhoduje o tom\, jak bude vaše dítě vnímat samo sebe\, jaké si bude tvořit vztahy a s jakou důvěrou vykročí do světa. Přesto (nebo právě proto) si jako rodiče často nejsme jistí a honí se nám hlavou otázky:\n - Mám ho nechat vybrečet?\n- Nerozmazluju ho přílišnou pozorností?\n - Proč mě neposlouchá\, když „v jeho věku by už přece měl“?\nNejste v tom sami. Na této přednášce převedeme důležité vývojové teorie do srozumitelné lidské řeči a ukážeme si\, jak je využít v každodenním rodičovství.\nPřijďte se dozvědět více o tom:\n- Jaký má náš vztah s dítětem vliv na jeho další vztahy a pocit důvěry ve svět po celý jeho život.\n- Jak přemýšlí malé dítě - proč často nedělá to co po něm chceme\, prožívá tak silné emoce kvůli maličkostem a jak můžeme dítě dále rozvíjet.\n- Jaké jsou hlavní vývojové teorie\, které je dobré znát pro podporu zdravého psychického vývoje dítěte.\nRezervace na akci je výhodou\, ale ne podmínkou. Kapacita je omezena.\nAkce se koná za finanční podpory Evropské unie.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260608T000000
+DTEND;TZID=Europe/Prague:20260609T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-2120507288844326327@vrdy
+DTSTAMP:20260508T065737Z
 SUMMARY:Divadlo pod hvězdami #4: Sen noci svatojánské / OLDstars
 LOCATION:Knihovna 06.08.2026 - 06.08.2026
 DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČeká nás již 4. ročník Divadla pod hvězdami s uměleckou skupinou OLDstars. Tentokrát se těšte na legendární klasiku v podání 20 mladých herců: Sen noci svatojánské.\nWilliam Shakespeare / Martin Hilský\nrežijní a pedagogické vedení: Jiří Dejl a Tomáš Staněk\n„Doháááje\, to byla noc. A kdo je tohle? A co jsem to vlastně dělal?“ Vítejte v lese. Nebo na náměstí. Nebo před autobusem. Protože my nepřijedeme jen hrát. My přijedeme autobusem. Divadelním. Starým. Lehce ojetým. Lehce magickým. A budeme hrát na něm. Sen noci svatojánské jako pojízdná párty\, co zaparkuje u vás a promění parkoviště v les plný víl\, hormonů a špatných rozhodnutí. Shakespeare kdysi napsal: „Mně všechno splývá…“ A my k tomu dodáváme: “jasně. Protože když se zamilujete do špatnýho člověka\, probudíte se vedle někoho jinýho a do toho vám parta herců zkouší svatbu na korbě autobusu\, taky vám bude splývat všechno.”\nBlíží se svatba.Hermie nechce.Demétrius chce.Helena chce víc.Les si dělá\, co chce. A my jsme si během zkoušení řekli:„Seštudujeme to strategicky a obscénicky.“ Takže žádná zaprášená klasika. Živá hudba. Autorské songy. Energie\, co vibruje plechem autobusu. Divadlo\, které přijede za vámi a zahraje vám přímo z kapoty.\nJedna noc. Jedna jízda. Jedno parkoviště proměněné v chaos lásky.\nPřijďte zjistit\, co se stane\, když klasiku vezmete na roadtrip. Tohle je náš Sen noci svatojánské. A přijedeme až k vám.
@@ -36,8 +56,8 @@ DTSTART;TZID=Europe/Prague:20260806T000000
 DTEND;TZID=Europe/Prague:20260807T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3353629127483921823@vrdy
-DTSTAMP:20260507T074944Z
+UID:knihovnavrdy-1319256224974567443@vrdy
+DTSTAMP:20260508T065737Z
 SUMMARY:Neboj\, neboj!
 LOCATION:Knihovna 23.10.2026 - 31.03.2027
 DESCRIPTION:Věk 0-99 Knihovna 23.10.2026 - 31.03.2027\nZážitková interaktivní výstava o strachu\, a o tom\, proč se ho nebát.\nInspirováno úspěšnou autorskou knihou Neboj\, neboj! (autoři Milada Rezková\, Lukáš Urbánek\, Jakub Kaše).\nVernisáž výstavy s workshopem Lukáše Urbánka v pátek 23. 10. 2026.\nVíce informací již brzy.
