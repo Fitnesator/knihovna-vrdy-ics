@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-1799253908104355789@vrdy
-DTSTAMP:20260614T084604Z
+UID:knihovnavrdy-8613506341560592972@vrdy
+DTSTAMP:20260615T112013Z
 SUMMARY:Čtvrtstoletí s fotografií /vernisáž 22. 5./
 LOCATION:Knihovna 22.05.2026 - 19.06.2026
 DESCRIPTION:Věk 0-99 Knihovna 22.05.2026 - 19.06.2026\nPetr Vesecký\, místní rodák a člen Fotoklubu Čáslav\, srdečně zve na svou retrospektivní výstavu fotografií s názvem Čtvrtstoletí s fotografií. V chodbách knihovny ji budete moci zhlédnout od 22. 5. do 19. 6. 2026.\nVeřejná vernisáž výstavy proběhne v pátek 22. 5. od 18:00.\nVstup na výstavu i vernisáž je zdarma.\nPetr je členem čáslavského Fotoklubu od roku 2004 a fotografuje především zátiší a krajinu. Rád použije analog včetně celého mokrého procesu. V roce 2017 byl také jedním z lektorů příměstského fotografického tábora při knihovně.
@@ -16,18 +16,28 @@ DTSTART;TZID=Europe/Prague:20260522T000000
 DTEND;TZID=Europe/Prague:20260620T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5624030240416550550@vrdy
-DTSTAMP:20260614T084604Z
-SUMMARY:MINI trh s brunchem
-LOCATION:Knihovna 13.06.2026 - 13.06.2026
-DESCRIPTION:Novinka\nVěk 0-99 Knihovna 13.06.2026 - 13.06.2026\nNa chvilku venku s mini trhem a brunchem je rodinné dopoledne\, plné tvoření pro děti i dospělé\, lokální trh oblečení\, šperků\, květin a dobrot.\nK snídani i brunchi bude připravené občerstvení v podobě kváskového chleba\, domácí pomazánky nebo polévky\, palačinek. Těšte se i na fairtradovou kávu a domácí limonádu.\nSpolupořádající jsou vaši sousedé\, kteří vyrábí úžasné dobroty\, pohodlné a stylové oblečení\, designové doplňky a krásnou květinovou výzdobu.\nPodrobný program budeme postupně doplňovat.\nNakrmte tělo i duši. Poznejte nové přátele.
+UID:knihovnavrdy-1269951306457248197@vrdy
+DTSTAMP:20260615T112013Z
+SUMMARY:Letní swap
+LOCATION:Knihovna 08.06.2026 - 19.06.2026
+DESCRIPTION:Věk 0-99 Knihovna 08.06.2026 - 19.06.2026\nAKTUÁLNÍ SWAP - LÉTO! :)\n>> letní oblečení a obuv - ochrana před sluncem - vybavení na pláž - potřeby na grilování a piknik - sport - letní čtení - venkovní hry - doplňky do domácnosti a na zahradu\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
 URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20260613T000000
-DTEND;TZID=Europe/Prague:20260614T000000
+DTSTART;TZID=Europe/Prague:20260608T000000
+DTEND;TZID=Europe/Prague:20260620T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6966724124199152066@vrdy
-DTSTAMP:20260614T084604Z
+UID:knihovnavrdy-5116514874332115994@vrdy
+DTSTAMP:20260615T112013Z
+SUMMARY:Školní swap
+LOCATION:Knihovna 22.06.2026 - 11.09.2026
+DESCRIPTION:Věk 0-99 Knihovna 22.06.2026 - 11.09.2026\nAKTUÁLNÍ SWAP - ŠKOLNÍ :)\n>> batohy a aktovky - penály - psací a výtvarné potřeby - geometrie - přezůvky - vybavení na tělocvik - papírenské potřeby - učebnice - knihy - hudební nástroje a noty\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260622T000000
+DTEND;TZID=Europe/Prague:20260912T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-3009398290020910200@vrdy
+DTSTAMP:20260615T112013Z
 SUMMARY:Divadlo pod hvězdami #4: Sen noci svatojánské / OLDstars
 LOCATION:Knihovna 06.08.2026 - 06.08.2026
 DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČeká nás již 4. ročník Divadla pod hvězdami s uměleckou skupinou OLDstars. Tentokrát se těšte na legendární klasiku v podání 20 mladých herců: Sen noci svatojánské.\nWilliam Shakespeare / Martin Hilský\nrežijní a pedagogické vedení: Jiří Dejl a Tomáš Staněk\n„Doháááje\, to byla noc. A kdo je tohle? A co jsem to vlastně dělal?“ Vítejte v lese. Nebo na náměstí. Nebo před autobusem. Protože my nepřijedeme jen hrát. My přijedeme autobusem. Divadelním. Starým. Lehce ojetým. Lehce magickým. A budeme hrát na něm. Sen noci svatojánské jako pojízdná párty\, co zaparkuje u vás a promění parkoviště v les plný víl\, hormonů a špatných rozhodnutí. Shakespeare kdysi napsal: „Mně všechno splývá…“ A my k tomu dodáváme: “jasně. Protože když se zamilujete do špatnýho člověka\, probudíte se vedle někoho jinýho a do toho vám parta herců zkouší svatbu na korbě autobusu\, taky vám bude splývat všechno.”\nBlíží se svatba.Hermie nechce.Demétrius chce.Helena chce víc.Les si dělá\, co chce. A my jsme si během zkoušení řekli:„Seštudujeme to strategicky a obscénicky.“ Takže žádná zaprášená klasika. Živá hudba. Autorské songy. Energie\, co vibruje plechem autobusu. Divadlo\, které přijede za vámi a zahraje vám přímo z kapoty.\nJedna noc. Jedna jízda. Jedno parkoviště proměněné v chaos lásky.\nPřijďte zjistit\, co se stane\, když klasiku vezmete na roadtrip. Tohle je náš Sen noci svatojánské. A přijedeme až k vám.
@@ -36,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20260806T000000
 DTEND;TZID=Europe/Prague:20260807T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3627463128573451034@vrdy
-DTSTAMP:20260614T084604Z
+UID:knihovnavrdy-4131036390661954010@vrdy
+DTSTAMP:20260615T112013Z
 SUMMARY:Neboj\, neboj!
 LOCATION:Knihovna 23.10.2026 - 31.03.2027
 DESCRIPTION:Věk 0-99 Knihovna 23.10.2026 - 31.03.2027\nZážitková interaktivní výstava o strachu\, a o tom\, proč se ho nebát.\nInspirováno úspěšnou autorskou knihou Neboj\, neboj! (autoři Milada Rezková\, Lukáš Urbánek\, Jakub Kaše).\nVernisáž výstavy s workshopem Lukáše Urbánka v pátek 23. 10. 2026.\nVíce informací již brzy.
