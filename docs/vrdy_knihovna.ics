@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-8613506341560592972@vrdy
-DTSTAMP:20260615T112013Z
+UID:knihovnavrdy-5324774627450073134@vrdy
+DTSTAMP:20260616T101854Z
 SUMMARY:Čtvrtstoletí s fotografií /vernisáž 22. 5./
 LOCATION:Knihovna 22.05.2026 - 19.06.2026
 DESCRIPTION:Věk 0-99 Knihovna 22.05.2026 - 19.06.2026\nPetr Vesecký\, místní rodák a člen Fotoklubu Čáslav\, srdečně zve na svou retrospektivní výstavu fotografií s názvem Čtvrtstoletí s fotografií. V chodbách knihovny ji budete moci zhlédnout od 22. 5. do 19. 6. 2026.\nVeřejná vernisáž výstavy proběhne v pátek 22. 5. od 18:00.\nVstup na výstavu i vernisáž je zdarma.\nPetr je členem čáslavského Fotoklubu od roku 2004 a fotografuje především zátiší a krajinu. Rád použije analog včetně celého mokrého procesu. V roce 2017 byl také jedním z lektorů příměstského fotografického tábora při knihovně.
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20260522T000000
 DTEND;TZID=Europe/Prague:20260620T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1269951306457248197@vrdy
-DTSTAMP:20260615T112013Z
+UID:knihovnavrdy-8447873118265052059@vrdy
+DTSTAMP:20260616T101854Z
 SUMMARY:Letní swap
 LOCATION:Knihovna 08.06.2026 - 19.06.2026
 DESCRIPTION:Věk 0-99 Knihovna 08.06.2026 - 19.06.2026\nAKTUÁLNÍ SWAP - LÉTO! :)\n>> letní oblečení a obuv - ochrana před sluncem - vybavení na pláž - potřeby na grilování a piknik - sport - letní čtení - venkovní hry - doplňky do domácnosti a na zahradu\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
@@ -26,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20260608T000000
 DTEND;TZID=Europe/Prague:20260620T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5116514874332115994@vrdy
-DTSTAMP:20260615T112013Z
+UID:knihovnavrdy-4530497920796171879@vrdy
+DTSTAMP:20260616T101854Z
 SUMMARY:Školní swap
 LOCATION:Knihovna 22.06.2026 - 11.09.2026
 DESCRIPTION:Věk 0-99 Knihovna 22.06.2026 - 11.09.2026\nAKTUÁLNÍ SWAP - ŠKOLNÍ :)\n>> batohy a aktovky - penály - psací a výtvarné potřeby - geometrie - přezůvky - vybavení na tělocvik - papírenské potřeby - učebnice - knihy - hudební nástroje a noty\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
@@ -36,8 +36,48 @@ DTSTART;TZID=Europe/Prague:20260622T000000
 DTEND;TZID=Europe/Prague:20260912T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3009398290020910200@vrdy
-DTSTAMP:20260615T112013Z
+UID:knihovnavrdy-4603287374215489607@vrdy
+DTSTAMP:20260616T101854Z
+SUMMARY:DLK #1: Cukrkandl
+LOCATION:Knihovna 26.06.2026 - 26.06.2026
+DESCRIPTION:Věk 0-99 Knihovna 26.06.2026 - 26.06.2026\nAnička Jesenská zdědí po svém tajemném strýci dům se skleníkem a zubařskou ordinací ve městě Medov. Jako vystudovaná lékařka chce pomáhat hlavně dětem\, ale nikdo k ní nechodí.\nVila má totiž ve městě pověst „strašidelného“ domu\, ke kterému se místní obyvatelé bojí přiblížit. Když díky dědovi Plantovi a exotické peruánské bylině ze skleníku zjistí\, že zubařské zákroky nemusejí bolet\, má rázem v ordinaci plno. Jenže ve městě je i druhý zubař – doktor Druml\, kterému se to samozřejmě nelíbí. Začíná nerovný boj\, ve kterém Aničce brzy začne pomáhat i parta místních dětí…\nTajemný film s pohádkovými a dobrodružnými prvky pro celou rodinu o začátcích stomatologie přichází s výjimečným vizuálním zpracováním\, napínavým příběhem a skvělým obsazením do kin v době\, kdy se na podobný žánr tak trochu pozapomnělo.\nAutorský snímek režiséra a scenáristy Pavla Jandourka představí v hlavní roli mladé zubařky Terezu Ramba\, po jejím boku se objeví Marek Adamczyk. Další postavy ztvárnili Jiří Dvořák\, Pavel Zedníček\, Martin Myšička\, Vica Kerekes\, Maroš Kramár či dětští herci v čele s Theem Schaeferem.\nPREMIÉRA: 23. 10. 2025\nPRODUKCE: Česká republika / Slovensko\, 2025\nŽÁNR: Rodinný / Dobrodružný\nSTOPÁŽ: 115 minut\nREŽIE: Pavel Jandourek\nHRAJÍ: Tereza Ramba\, Marek Adamczyk\, Marek Ťapák\, Jiří Dvořák\, Pavel Zedníček\, Jaroslav Plesl\, Vica Kerekes\, Maroš Kramár\, Jiří Lábus\, Miroslav Sojka\, Theodor Schaefer\, Ondřej Süss\, Martin Myšička a další
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260626T000000
+DTEND;TZID=Europe/Prague:20260627T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-3514696573775667166@vrdy
+DTSTAMP:20260616T101854Z
+SUMMARY:Zájezd: Mezinárodní krajkářské slavnosti
+LOCATION:Knihovna 27.06.2026 - 27.06.2026
+DESCRIPTION:Věk 0-99 Knihovna 27.06.2026 - 27.06.2026\nKnihovna F. V. Lorence Vrdy\na kurz Paličkování a šité krajky Vrdy\nVás zvou na zájezd na\nMEZINÁRODNÍ KRAJKÁŘSKÉ SLAVNOSTI DO VAMBERKA.\nodjezd z Vrdů: 7:00\, Kulturní dům Vrdy\nodjezd z Vamberka: 16:00 (místo srazu pro návrat určí řidič autobusu)\nnávrat do Vrdů: cca 18:00\, Kulturní dům Vrdy\ndoprava: zdarma (obecní autobus)\nvstupné: individuálně na místě\nrezervace míst do pondělí 22. 6.\, do 12:00 na tel. čísle 775 626 188 (Kobelová Petra) nebo přes přihlašovací systém na webu knihovny\;\nProgram:\nProgram ve Vamberku probíhá na několika místech v čase 9:00-16:00\n09:00 – otevření výstavních prostor (Sportovní hala\, Sokolovna\, Krajkářská škola\, Radnice\, Muzuem krajky\, Knihovna\, Kostel sv. Prokopa)\n09:00 – zahájen PODORLICKÝ JARMARK (náměstí a okolí\, knihovna\, prostor u Sportovní haly)\n10:00 – pochodová hudba – IDRIJSKÝ HORNICKÝ ORCHESTR (začíná u Sportovní haly\, prochází Tyršovou ulicí na náměstí)\n10:15 – Módní přehlídka Krajkářské školy (Husovo náměstí)\n10:45 – IDRIJSKÝ HORNICKÝ ORCHESTR a ochutnávka idrijských žlikrofů (Husovo náměstí)\n11:00 – komentovaná prohlídka (Muzeum krajky Vamberk)\n11.00 – 12.00 – Vamberecká dechovka (Husovo náměstí)\n13:00 – UNI BIG BAND VAMBERK (Husovo náměstí)\n15:00 – kapela TH!S (Husovo náměstí)\n16:00 – ukončení PODORLICKÉHO JARMARKU\n17:00 – uzavření výstavních prostor\nKompletní program naleznete na webových stránkách slavností:\nhttps://slavnosti.vamberk.cz/#program
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260627T000000
+DTEND;TZID=Europe/Prague:20260628T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-7196041365056805553@vrdy
+DTSTAMP:20260616T101854Z
+SUMMARY:DLK #2: Píseň moře
+LOCATION:Knihovna 10.07.2026 - 10.07.2026
+DESCRIPTION:Věk 0-99 Knihovna 10.07.2026 - 10.07.2026\nVelrybí píseň vypráví příběh mladého keporkaka Vincenta. Ten s pomocí několika přátel musí překonat řadu překážek a prožít nečekaná dobrodružství\, aby v sobě objevil vlastní magickou píseň\, s jejíž pomocí může zachránit oceán a život v něm.\nVincent\, dospívající keporkak\, je synem slavného posledního velrybího pěvce\, který až do poslední chvíle chránil oceán a jeho obyvatele. Když Vincent o něj i svou mámu tragicky přijde\, musí zaujmout jeho místo a svou vlastní kouzelnou písní pokračovat jako ochránce podmořského života. Je však příliš vystrašený\, osamělý a nejistý. Když z tajícího ledovce unikne obludný Leviatan a začne ohrožovat svým smrtícím inkoustem veškerý mořský život\, musí Vincent najít svou vlastní píseň\, aby tuto hrozbu zastavil. Ale je stále ochromený pochybnostmi o sobě samém a místo toho se vydává na nebezpečnou cestu do nejhlubšího místa na dně oceánu\, aby přivedl své rodiče zpět z mýtické Tůně hvězd. Jeho poslední nadějí je to\, že jeho otec nakonec dokáže Leviatana porazit místo něj.\nS pomocí rybího parťáka štítovce Waltera a odvážné kosatky Darii musí Vincent odolávat svým strachům\, překonat často nečekané překážky a poznat mnohá tajemství oceánu. Především však musí najít vlastní píseň\, která mu pomůže zachránit život v oceánu.\nŽánr: animovaný / dobrodružný / komedie\nStopáž: 91 min\nPremiéra: 19. 2. 2026\nProducenti: ČR / Německo / Kanada\nRežie: Reza Memari\, Steven Majaury\, Pavel Hruboš\nScénář: Reza Memari\nHudba: Daníel Bjarnason\nKamera: Jaromír Malý\nHlasy: Marek Lambora\, Michal Holán\, Tereza Ramba\, Daniel Krejčík\, Richard Genzer\, Berenika Kohoutová\, Ondřej Havel\, Zbyšek Pantůček\, Sabina Laurinová\, Bořek Slezáček\, Ivana Korolová\, Tomáš Weber\, Jaroslav Šťastný\, Jana Zenáhlíková\, Andrea Mohylová\, Yvonne Stolařová
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260710T000000
+DTEND;TZID=Europe/Prague:20260711T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-3218576880872891469@vrdy
+DTSTAMP:20260616T101854Z
+SUMMARY:DLK #3: Mufasa: Lví král
+LOCATION:Knihovna 24.07.2026 - 24.07.2026
+DESCRIPTION:Věk 0-99 Knihovna 24.07.2026 - 24.07.2026\nVe snímku Mufasa: Lví král vypráví šaman Rafiki legendu o tom\, jak se vlády nad Lví říší ujal mladý lev\, který se stal všemi oblíbeným vládcem. Divákům představuje osiřelého lvíčka Mufasu a přátelského lva jménem Taka\, dědice lvího trůnu\, a zavádí je na velkolepou pouť\, na které oba lví hrdiny doprovází skupinka svérázných postav.\nŽánr: Animovaný Dobrodružný Drama Rodinný Muzikál\nProdukce: USA ¨\nRok výroby: 2024\nStopáž: 118 min\nRežie: Barry Jenkins\nScénář: Jeff Nathanson\nKamera: James Laxton\nHudba: Dave Metzger\nHrají: Aaron Pierre\, Kelvin Harrison Jr.\, John Kani\, Seth Rogen\, Billy Eichner\, Beyoncé\, Mads Mikkelsen\, Thandiwe Newton\, Blue Ivy Carter\, Keith David\, Donald Glover
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260724T000000
+DTEND;TZID=Europe/Prague:20260725T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-6303654203084631968@vrdy
+DTSTAMP:20260616T101854Z
 SUMMARY:Divadlo pod hvězdami #4: Sen noci svatojánské / OLDstars
 LOCATION:Knihovna 06.08.2026 - 06.08.2026
 DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČeká nás již 4. ročník Divadla pod hvězdami s uměleckou skupinou OLDstars. Tentokrát se těšte na legendární klasiku v podání 20 mladých herců: Sen noci svatojánské.\nWilliam Shakespeare / Martin Hilský\nrežijní a pedagogické vedení: Jiří Dejl a Tomáš Staněk\n„Doháááje\, to byla noc. A kdo je tohle? A co jsem to vlastně dělal?“ Vítejte v lese. Nebo na náměstí. Nebo před autobusem. Protože my nepřijedeme jen hrát. My přijedeme autobusem. Divadelním. Starým. Lehce ojetým. Lehce magickým. A budeme hrát na něm. Sen noci svatojánské jako pojízdná párty\, co zaparkuje u vás a promění parkoviště v les plný víl\, hormonů a špatných rozhodnutí. Shakespeare kdysi napsal: „Mně všechno splývá…“ A my k tomu dodáváme: “jasně. Protože když se zamilujete do špatnýho člověka\, probudíte se vedle někoho jinýho a do toho vám parta herců zkouší svatbu na korbě autobusu\, taky vám bude splývat všechno.”\nBlíží se svatba.Hermie nechce.Demétrius chce.Helena chce víc.Les si dělá\, co chce. A my jsme si během zkoušení řekli:„Seštudujeme to strategicky a obscénicky.“ Takže žádná zaprášená klasika. Živá hudba. Autorské songy. Energie\, co vibruje plechem autobusu. Divadlo\, které přijede za vámi a zahraje vám přímo z kapoty.\nJedna noc. Jedna jízda. Jedno parkoviště proměněné v chaos lásky.\nPřijďte zjistit\, co se stane\, když klasiku vezmete na roadtrip. Tohle je náš Sen noci svatojánské. A přijedeme až k vám.
@@ -46,8 +86,28 @@ DTSTART;TZID=Europe/Prague:20260806T000000
 DTEND;TZID=Europe/Prague:20260807T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4131036390661954010@vrdy
-DTSTAMP:20260615T112013Z
+UID:knihovnavrdy-2183043506431894137@vrdy
+DTSTAMP:20260616T101854Z
+SUMMARY:DLK #4: Pohádky po babičce
+LOCATION:Knihovna 14.08.2026 - 14.08.2026
+DESCRIPTION:Věk 0-99 Knihovna 14.08.2026 - 14.08.2026\nTři sourozenci přijíždějí na návštěvu k nedávno ovdovělému smutnému dědečkovi. Malý Tomík nemůže usnout. Zuzanka se rozhodne vyčarovat z babiččina slamáku pohádky z vybraných slov tak\, jak je uměla vyprávět jejich milovaná babička. Společně se vydávají na kouzelnou cestu\, která ukazuje\, jak jim může vyprávění pomoci zvládat životní výzvy a nalézt v něm útěchu. A zároveň přináší naději ze světa fantazie i do vlastního života.\nŽánr: Animovaný Loutkový\nProdukce: Česko / Slovensko / Slovinsko\nRok výroby: 2025\nStopáž: 71 min\nRežie: David Súkup\, Patrik Pašš\, Leon Vidmar\, Jean-Claude Rozec\nPředloha: Arnošt Goldflam (kniha)\nScénář: Marek Král\, Petr Krajíček\, Patrik Pašš\, Kaja Balog\, Maja Križnik (více)\nKamera: Mathilde Gaillard\nHudba: Lucia Chuťková\nHrají: Arnošt Goldflam\, Mikuláš Čížek\, Zuzana Kronerová\, Viktor Preiss\, Pavla Beretová\, Žofie Hánová\, Miroslav Krobot\, Linda Křišťálová\, Michael Polák\, Ivan Trojan
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260814T000000
+DTEND;TZID=Europe/Prague:20260815T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-2065840672348331178@vrdy
+DTSTAMP:20260616T101854Z
+SUMMARY:DLK #5: Princezna stokrát jinak
+LOCATION:Knihovna 28.08.2026 - 28.08.2026
+DESCRIPTION:Věk 0-99 Knihovna 28.08.2026 - 28.08.2026\nPrincezna Stella se denně probouzí v jiné podobě. Do jejích osmnáctin zbývá týden\, a když se nepodaří ji z této podivné choroby vyléčit\, zůstanou jí neustálé proměny po celý život. Král s královnou a mudrci zkouší všechny možné léky i metody – další nadějí je prý svatba. Do rytířského turnaje se připlete sympatický mladík Johan\, který získá ruku princezny\, ale přivolá tím na sebe hněv obávaného císaře Ukruta\, který chtěl princeznu pro sebe!\nAle ani rychlá svatba princezně nepomůže. Johan slíbí Stelle\, že pojede i na kraj světa\, aby pro ni našel lék. Překvapí ho\, že se k němu cestou tajně přidá i samotná princezna. Už nikomu kromě Johana nevěří…\nNejhorší je\, že se musí dostat právě k obávanému císaři Ukrutovi\, který se prý z podobné choroby vyléčil. Johan a Stella musí překonat spoustu překážek\, navíc je jim v patách krutý pobočník císaře – Ramor.\nCestou se mladí lidé poznávají a sbližují a nakonec pochopí\, že na Stellinu chorobu je jediným lékem láska a víra v sebe sama.\nPrincezna stokrát jinak je veselá a dobrodružná pohádka o lásce\, odvaze a hledání sebe sama\, která s humorem vtáhne celou rodinu do příběhu plného proměn a skutečných hrdinů.\nPremiéra: 29.01.2026\nZemě původu: CZE\nŽánr: pohádka\nStopáž: 117 min.\nRežie: Miloslav Šmídmajer\nScénář: Tomáš Belko a Tomáš Krejčí\nKamera: Ivan Finta\nHrají: Ema Businská\, Filip Březina\, Jan Koleník\, Martin Stránsky\, Zuzana Fialová\, Patrície Solaříková\, Martin Myšička\, Martina Preissová\, Tomáš Weber\, Jaroslav Plesl\, Petr Nárožný\, Martin Mňahončák\, Danica Jurčová a další
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20260828T000000
+DTEND;TZID=Europe/Prague:20260829T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-389743409021217299@vrdy
+DTSTAMP:20260616T101854Z
 SUMMARY:Neboj\, neboj!
 LOCATION:Knihovna 23.10.2026 - 31.03.2027
 DESCRIPTION:Věk 0-99 Knihovna 23.10.2026 - 31.03.2027\nZážitková interaktivní výstava o strachu\, a o tom\, proč se ho nebát.\nInspirováno úspěšnou autorskou knihou Neboj\, neboj! (autoři Milada Rezková\, Lukáš Urbánek\, Jakub Kaše).\nVernisáž výstavy s workshopem Lukáše Urbánka v pátek 23. 10. 2026.\nVíce informací již brzy.
