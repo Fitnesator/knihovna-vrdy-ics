@@ -6,18 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-4357378255199238743@vrdy
-DTSTAMP:20260630T083523Z
-SUMMARY:Letní swap
-LOCATION:Knihovna 08.06.2026 - 19.06.2026
-DESCRIPTION:Věk 0-99 Knihovna 08.06.2026 - 19.06.2026\nAKTUÁLNÍ SWAP - LÉTO! :)\n>> letní oblečení a obuv - ochrana před sluncem - vybavení na pláž - potřeby na grilování a piknik - sport - letní čtení - venkovní hry - doplňky do domácnosti a na zahradu\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20260608T000000
-DTEND;TZID=Europe/Prague:20260620T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-963744811561074305@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-3548923747980245051@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:Školní swap
 LOCATION:Knihovna 22.06.2026 - 11.09.2026
 DESCRIPTION:Věk 0-99 Knihovna 22.06.2026 - 11.09.2026\nAKTUÁLNÍ SWAP - ŠKOLNÍ :)\n>> batohy a aktovky - penály - psací a výtvarné potřeby - geometrie - přezůvky - vybavení na tělocvik - papírenské potřeby - učebnice - knihy - hudební nástroje a noty\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
@@ -26,9 +16,9 @@ DTSTART;TZID=Europe/Prague:20260622T000000
 DTEND;TZID=Europe/Prague:20260912T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-9096048819347408933@vrdy
-DTSTAMP:20260630T083523Z
-SUMMARY:DLK #2: Píseň moře
+UID:knihovnavrdy-1928590117892428277@vrdy
+DTSTAMP:20260701T085322Z
+SUMMARY:DLK #2: Velrybí píseň
 LOCATION:Knihovna 10.07.2026 - 10.07.2026
 DESCRIPTION:Věk 0-99 Knihovna 10.07.2026 - 10.07.2026\nVelrybí píseň vypráví příběh mladého keporkaka Vincenta. Ten s pomocí několika přátel musí překonat řadu překážek a prožít nečekaná dobrodružství\, aby v sobě objevil vlastní magickou píseň\, s jejíž pomocí může zachránit oceán a život v něm.\nVincent\, dospívající keporkak\, je synem slavného posledního velrybího pěvce\, který až do poslední chvíle chránil oceán a jeho obyvatele. Když Vincent o něj i svou mámu tragicky přijde\, musí zaujmout jeho místo a svou vlastní kouzelnou písní pokračovat jako ochránce podmořského života. Je však příliš vystrašený\, osamělý a nejistý. Když z tajícího ledovce unikne obludný Leviatan a začne ohrožovat svým smrtícím inkoustem veškerý mořský život\, musí Vincent najít svou vlastní píseň\, aby tuto hrozbu zastavil. Ale je stále ochromený pochybnostmi o sobě samém a místo toho se vydává na nebezpečnou cestu do nejhlubšího místa na dně oceánu\, aby přivedl své rodiče zpět z mýtické Tůně hvězd. Jeho poslední nadějí je to\, že jeho otec nakonec dokáže Leviatana porazit místo něj.\nS pomocí rybího parťáka štítovce Waltera a odvážné kosatky Darii musí Vincent odolávat svým strachům\, překonat často nečekané překážky a poznat mnohá tajemství oceánu. Především však musí najít vlastní píseň\, která mu pomůže zachránit život v oceánu.\nŽánr: animovaný / dobrodružný / komedie\nStopáž: 91 min\nPremiéra: 19. 2. 2026\nProducenti: ČR / Německo / Kanada\nRežie: Reza Memari\, Steven Majaury\, Pavel Hruboš\nScénář: Reza Memari\nHudba: Daníel Bjarnason\nKamera: Jaromír Malý\nHlasy: Marek Lambora\, Michal Holán\, Tereza Ramba\, Daniel Krejčík\, Richard Genzer\, Berenika Kohoutová\, Ondřej Havel\, Zbyšek Pantůček\, Sabina Laurinová\, Bořek Slezáček\, Ivana Korolová\, Tomáš Weber\, Jaroslav Šťastný\, Jana Zenáhlíková\, Andrea Mohylová\, Yvonne Stolařová
 URL:https://www.knihovnavrdy.cz/akce
@@ -36,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20260710T000000
 DTEND;TZID=Europe/Prague:20260711T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-8619028057792009027@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-1179966079660237704@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:DLK #3: Mufasa: Lví král
 LOCATION:Knihovna 24.07.2026 - 24.07.2026
 DESCRIPTION:Věk 0-99 Knihovna 24.07.2026 - 24.07.2026\nVe snímku Mufasa: Lví král vypráví šaman Rafiki legendu o tom\, jak se vlády nad Lví říší ujal mladý lev\, který se stal všemi oblíbeným vládcem. Divákům představuje osiřelého lvíčka Mufasu a přátelského lva jménem Taka\, dědice lvího trůnu\, a zavádí je na velkolepou pouť\, na které oba lví hrdiny doprovází skupinka svérázných postav.\nŽánr: Animovaný Dobrodružný Drama Rodinný Muzikál\nProdukce: USA ¨\nRok výroby: 2024\nStopáž: 118 min\nRežie: Barry Jenkins\nScénář: Jeff Nathanson\nKamera: James Laxton\nHudba: Dave Metzger\nHrají: Aaron Pierre\, Kelvin Harrison Jr.\, John Kani\, Seth Rogen\, Billy Eichner\, Beyoncé\, Mads Mikkelsen\, Thandiwe Newton\, Blue Ivy Carter\, Keith David\, Donald Glover
@@ -46,18 +36,18 @@ DTSTART;TZID=Europe/Prague:20260724T000000
 DTEND;TZID=Europe/Prague:20260725T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6001400903281675601@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-1769047585482549299@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:Divadlo pod hvězdami #4: Sen noci svatojánské / OLDstars
 LOCATION:Knihovna 06.08.2026 - 06.08.2026
-DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČtvrtý ročník letního divadelního představení pod širým nebem v plenéru knihovny a kostela v podání studentské umělecké skupiny OLDstars.\nLetní open-air adaptace Shakespearovy komedie o lásce\, snech a záměnách. Hravá\, hudební a vizuálně stylizovaná inscenace v atmosféře letní noci a s autobusem.\nHraje: Bruno Babka\, Adéla Bártová\, Anežka Nika Brožová\, Martin Alan Dušek\, Anika Dohnalová\, Sebastian Hajek\, Adam Holeček\, Anička Lukášková\, Veronika Lafková\, Maxmilián Materna\, Barbora Matoušová\, Klára Nováková\nPremiéra: 2. 8. 2026\nVstup zdarma.\nObčerstvení: Hotel Grand Čáslav\n...\nWilliam Shakespeare / Martin Hilský\nrežijní a pedagogické vedení: Jiří Dejl a Tomáš Staněk\n„Doháááje\, to byla noc. A kdo je tohle? A co jsem to vlastně dělal?“ Vítejte v lese. Nebo před knihovnou. Nebo před autobusem. Protože my nepřijedeme jen hrát. My přijedeme autobusem. Divadelním. Starým. Lehce ojetým. Lehce magickým. A budeme hrát na něm. Sen noci svatojánské jako pojízdná párty\, co zaparkuje u vás a promění parkoviště v les plný víl\, hormonů a špatných rozhodnutí. Shakespeare kdysi napsal: „Mně všechno splývá…“ A my k tomu dodáváme: “Jasně. Protože když se zamilujete do špatnýho člověka\, probudíte se vedle někoho jinýho a do toho vám parta herců zkouší svatbu na korbě autobusu\, taky vám bude splývat všechno.”\nBlíží se svatba. Hermie nechce.Demétrius chce. Helena chce víc. Les si dělá\, co chce. A my jsme si během zkoušení řekli: „Seštudujeme to strategicky a obscénicky.“ Takže žádná zaprášená klasika. Živá hudba. Autorské songy. Energie\, co vibruje plechem autobusu. Divadlo\, které přijede za vámi a zahraje vám přímo z kapoty.\nJedna noc. Jedna jízda. Jedno parkoviště proměněné v chaos lásky.\nPřijďte zjistit\, co se stane\, když klasiku vezmete na roadtrip. Tohle je náš Sen noci svatojánské. A přijedeme až k vám.
+DESCRIPTION:Věk 15-99 Knihovna 06.08.2026 - 06.08.2026\nČtvrtý ročník letního divadelního představení pod širým nebem v plenéru knihovny a kostela v podání studentské umělecké skupiny OLDstars.\nLetní open-air adaptace Shakespearovy komedie o lásce\, snech a záměnách. Hravá\, hudební a vizuálně stylizovaná inscenace v atmosféře letní noci a s autobusem.\nHraje: Bruno Babka\, Adéla Bártová\, Anežka Nika Brožová\, Martin Alan Dušek\, Anika Dohnalová\, Sebastian Hajek\, Adam Holeček\, Anička Lukášková\, Veronika Lafková\, Maxmilián Materna\, Barbora Matoušová\, Klára Nováková\nWilliam Shakespeare / Martin Hilský\nrežijní a pedagogické vedení: Jiří Dejl a Tomáš Staněk\nPremiéra: 2. 8. 2026 (Kutná Hora)\nVstup zdarma.\nObčerstvení: Hotel Grand Čáslav\n...\n„Doháááje\, to byla noc. A kdo je tohle? A co jsem to vlastně dělal?“ Vítejte v lese. Nebo před knihovnou. Nebo před autobusem. Protože my nepřijedeme jen hrát. My přijedeme autobusem. Divadelním. Starým. Lehce ojetým. Lehce magickým. A budeme hrát na něm. Sen noci svatojánské jako pojízdná párty\, co zaparkuje u vás a promění parkoviště v les plný víl\, hormonů a špatných rozhodnutí. Shakespeare kdysi napsal: „Mně všechno splývá…“ A my k tomu dodáváme: “Jasně. Protože když se zamilujete do špatnýho člověka\, probudíte se vedle někoho jinýho a do toho vám parta herců zkouší svatbu na korbě autobusu\, taky vám bude splývat všechno.”\nBlíží se svatba. Hermie nechce.Demétrius chce. Helena chce víc. Les si dělá\, co chce. A my jsme si během zkoušení řekli: „Seštudujeme to strategicky a obscénicky.“ Takže žádná zaprášená klasika. Živá hudba. Autorské songy. Energie\, co vibruje plechem autobusu. Divadlo\, které přijede za vámi a zahraje vám přímo z kapoty.\nJedna noc. Jedna jízda. Jedno parkoviště proměněné v chaos lásky.\nPřijďte zjistit\, co se stane\, když klasiku vezmete na roadtrip. Tohle je náš Sen noci svatojánské. A přijedeme až k vám.
 URL:https://www.knihovnavrdy.cz/akce
 DTSTART;TZID=Europe/Prague:20260806T000000
 DTEND;TZID=Europe/Prague:20260807T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2858588929257358812@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-2092402963405262442@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:DLK #4: Pohádky po babičce
 LOCATION:Knihovna 14.08.2026 - 14.08.2026
 DESCRIPTION:Věk 0-99 Knihovna 14.08.2026 - 14.08.2026\nTři sourozenci přijíždějí na návštěvu k nedávno ovdovělému smutnému dědečkovi. Malý Tomík nemůže usnout. Zuzanka se rozhodne vyčarovat z babiččina slamáku pohádky z vybraných slov tak\, jak je uměla vyprávět jejich milovaná babička. Společně se vydávají na kouzelnou cestu\, která ukazuje\, jak jim může vyprávění pomoci zvládat životní výzvy a nalézt v něm útěchu. A zároveň přináší naději ze světa fantazie i do vlastního života.\nŽánr: Animovaný Loutkový\nProdukce: Česko / Slovensko / Slovinsko\nRok výroby: 2025\nStopáž: 71 min\nRežie: David Súkup\, Patrik Pašš\, Leon Vidmar\, Jean-Claude Rozec\nPředloha: Arnošt Goldflam (kniha)\nScénář: Marek Král\, Petr Krajíček\, Patrik Pašš\, Kaja Balog\, Maja Križnik (více)\nKamera: Mathilde Gaillard\nHudba: Lucia Chuťková\nHrají: Arnošt Goldflam\, Mikuláš Čížek\, Zuzana Kronerová\, Viktor Preiss\, Pavla Beretová\, Žofie Hánová\, Miroslav Krobot\, Linda Křišťálová\, Michael Polák\, Ivan Trojan
@@ -66,8 +56,8 @@ DTSTART;TZID=Europe/Prague:20260814T000000
 DTEND;TZID=Europe/Prague:20260815T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2622323297721689378@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-6547149803277771305@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:DLK #5: Princezna stokrát jinak
 LOCATION:Knihovna 28.08.2026 - 28.08.2026
 DESCRIPTION:Věk 0-99 Knihovna 28.08.2026 - 28.08.2026\nPrincezna Stella se denně probouzí v jiné podobě. Do jejích osmnáctin zbývá týden\, a když se nepodaří ji z této podivné choroby vyléčit\, zůstanou jí neustálé proměny po celý život. Král s královnou a mudrci zkouší všechny možné léky i metody – další nadějí je prý svatba. Do rytířského turnaje se připlete sympatický mladík Johan\, který získá ruku princezny\, ale přivolá tím na sebe hněv obávaného císaře Ukruta\, který chtěl princeznu pro sebe!\nAle ani rychlá svatba princezně nepomůže. Johan slíbí Stelle\, že pojede i na kraj světa\, aby pro ni našel lék. Překvapí ho\, že se k němu cestou tajně přidá i samotná princezna. Už nikomu kromě Johana nevěří…\nNejhorší je\, že se musí dostat právě k obávanému císaři Ukrutovi\, který se prý z podobné choroby vyléčil. Johan a Stella musí překonat spoustu překážek\, navíc je jim v patách krutý pobočník císaře – Ramor.\nCestou se mladí lidé poznávají a sbližují a nakonec pochopí\, že na Stellinu chorobu je jediným lékem láska a víra v sebe sama.\nPrincezna stokrát jinak je veselá a dobrodružná pohádka o lásce\, odvaze a hledání sebe sama\, která s humorem vtáhne celou rodinu do příběhu plného proměn a skutečných hrdinů.\nPremiéra: 29.01.2026\nZemě původu: CZE\nŽánr: pohádka\nStopáž: 117 min.\nRežie: Miloslav Šmídmajer\nScénář: Tomáš Belko a Tomáš Krejčí\nKamera: Ivan Finta\nHrají: Ema Businská\, Filip Březina\, Jan Koleník\, Martin Stránsky\, Zuzana Fialová\, Patrície Solaříková\, Martin Myšička\, Martina Preissová\, Tomáš Weber\, Jaroslav Plesl\, Petr Nárožný\, Martin Mňahončák\, Danica Jurčová a další
@@ -76,8 +66,8 @@ DTSTART;TZID=Europe/Prague:20260828T000000
 DTEND;TZID=Europe/Prague:20260829T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4642455741797946678@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-5444485008484760131@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:OFFSCROLL #1: Mladí lidé mají svůj hlas
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 18.09.2026 - 18.09.2026\nGreta Thunberg. Joshua Wong. Jakub Čech. Žákovský parlament na ZŠ Malešov.\nMladí lidé mají velkou sílu věci kolem sebe měnit\, pokud si uvědomí\, že mohou. A pokud ví\, jak na to. Po ruce mají mocný nástroj – media. A možná si ani neuvědomují\, že mnohé nástroje už znají. Co zkusit použít tik tok k podpoře úklidu svého města? Jak dostat svůj hlas do celostátního rádia? S kým se spojit\, abych byl slyšet? Žáci se nedozví\, co si mají myslet ani za co mají zkusit bojovat\, ale dozví se\, jak to udělat\, kdyby u nich tato potřeba vyvstala.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -86,8 +76,8 @@ DTSTART;TZID=Europe/Prague:20260918T000000
 DTEND;TZID=Europe/Prague:20260919T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1782749906478900516@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-6756443812707825516@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:přednášky s psycholožkou #4: Silná křídla\, bezepčný přístav
 LOCATION:Knihovna 06.10.2026 - 06.10.2026
 DESCRIPTION:Věk 18-99 Knihovna 06.10.2026 - 06.10.2026\nJiž čtvrté setkání z cyklu přednášek s psycholožkou Terezou Koutnou.\nDěti se během školního věku a dospívání mění možná víc\, než si často uvědomujeme. Z dítěte\, které bylo dříve orientované hlavně na rodinu\, se postupně stává člověk hledající své místo mezi vrstevníky a ve světě. Do toho přichází bouřlivý vývoj mozku\, silnější emoce\, větší potřeba samostatnosti i citlivost na vztahy a přijetí.\nRodiče si pak často kladou otázky:\nProč je pro puberťáka najednou důležitější parta než rodina?\nKdy dát více volnosti a kdy naopak držet hranice?\nCo je běžná součást dospívání a kdy už zbystřit?\nNa této přednášce si představíme hlavní psychologické vývojové teorie vztahující se k mladšímu školnímu věku a dospívání — srozumitelně a prakticky. Ukážeme si\, jak se vyvíjí identita\, sebevědomí\, vztahy i způsob přemýšlení dítěte a co dospívající v jednotlivých obdobích skutečně potřebují od dospělých kolem sebe.\nVstup je zdarma\, rezervace míst předem výhodou.\nAkci pořádáme díky finanční podpoře EU.
@@ -96,8 +86,8 @@ DTSTART;TZID=Europe/Prague:20261006T000000
 DTEND;TZID=Europe/Prague:20261007T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-7566806520273862141@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-1911401238112244311@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:OFFSCROLL #2: Detekce neviditelného
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 09.10.2026 - 09.10.2026\nSociální sítě\, zpravodajské weby\, lokální noviny\, podcasty\, časopisy\, kuchařky\, rádio – tam všude se dnes a denně setkáváme se skrytou reklamou. Jak ji poznat? A jak se jí bránit? Interaktivní workshop staví na mnoha ukázkách\, jejichž rozbor si klade za cíl zvýšit kritické myšlení žáků a povědomí o rozšířeném fenoménu\, který se nevyhýbá žádné věkové skupině.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -106,8 +96,8 @@ DTSTART;TZID=Europe/Prague:20261009T000000
 DTEND;TZID=Europe/Prague:20261010T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3109891184454240691@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-713930931628235587@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:Neboj\, neboj!
 LOCATION:Knihovna 23.10.2026 - 31.03.2027
 DESCRIPTION:Věk 0-99 Knihovna 23.10.2026 - 31.03.2027\nZážitková interaktivní výstava o strachu\, a o tom\, proč se ho nebát.\nInspirováno úspěšnou autorskou knihou Neboj\, neboj! (autoři Milada Rezková\, Lukáš Urbánek\, Jakub Kaše).\nVernisáž výstavy s workshopem Lukáše Urbánka v pátek 23. 10. 2026.\nVíce informací již brzy.
@@ -116,8 +106,8 @@ DTSTART;TZID=Europe/Prague:20261023T000000
 DTEND;TZID=Europe/Prague:20270401T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2085866565936411200@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-6705039402905630480@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:OFFSCROLL #3: Digitální stopa a OSINT
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 06.11.2026 - 06.11.2026\nV této lekci žáci pracují s veřejně dostupnými daty na internetu. Snaží se zjistit a dát si do kontextu co nejvíce informací o fiktivní osobě Sarinkaaaa3101. Cílem této aktivity je nejen rozvíjet dovednosti spojené s vyhledáváním a analýzou informací\, ale rovněž naučit žáky porozumět pojmu digitální stopa a významu bezpečného chování v online prostředí.\npozn.: OSINT (Open Source Intelligence - systematický sběr\, analýza a interpretace informací z volně dostupných zdrojů\, jako jsou internet\, sociální sítě\, média či veřejné rejstříky)\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -126,8 +116,8 @@ DTSTART;TZID=Europe/Prague:20261106T000000
 DTEND;TZID=Europe/Prague:20261107T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1336409878101544679@vrdy
-DTSTAMP:20260630T083523Z
+UID:knihovnavrdy-6067751240936433494@vrdy
+DTSTAMP:20260701T085322Z
 SUMMARY:OFFSCROLL #4: Syntetická realita (deepfakes)
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 04.12.2026 - 04.12.2026\nGenerativní umělá inteligence zásadně mění způsob digitální manipulace. Syntetická realita je prostor\, v němž je velmi složité rozpoznat\, co bylo vytvořeno lidmi a co počítačem. Cílem workshopu je podpořit žáky v kritickém posuzování obsahu\, který je jim nabízen v online prostoru.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
