@@ -6,8 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-8066544119647828962@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-5915794778320361035@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:Školní swap
 LOCATION:Knihovna 22.06.2026 - 11.09.2026
 DESCRIPTION:Věk 0-99 Knihovna 22.06.2026 - 11.09.2026\nAKTUÁLNÍ SWAP - ŠKOLNÍ :)\n>> batohy a aktovky - penály - psací a výtvarné potřeby - geometrie - přezůvky - vybavení na tělocvik - papírenské potřeby - učebnice - knihy - hudební nástroje a noty\nCO JSOU SWAPY A JAK TO FUNGUJE?\nMáte doma věci\, které už nepoužíváte\, ale je vám líto je vyhodit?\nPřijďte na naše swapy. Pořádáme je průběžně celý rok\, snažíme se pokrývat rytmus roku swapy sezonním oblečením (jarní\, letní\, podzimní\, zimní) nebo potřebami (školní\, vánoční\, karnevalový).\nJak to funguje?: Vy přinesete to\, co už vám doma překáží (ale je to stále v dobrém stavu) a místo toho si můžete vybrat cokoliv\, co se hodí vám od ostatních.\nNení nutné vyměňovat kus za kus\, stačí jen přinést\, nebo si jen odnést.\nVše je zdarma a pro radost.\nPřinést nebo odnést si můžete věci vždy v otevírací době knihovny nebo dětského koutku\, případně po předchozí domluvě.
@@ -16,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20260622T000000
 DTEND;TZID=Europe/Prague:20260912T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2362361789582872083@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-1172275541000523839@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:výstavy: Děti\, čtěte! + Čeští autoři tvoří komiks pro DC
 LOCATION:Knihovna 01.07.2026 - 31.08.2026
 DESCRIPTION:Věk 0-99 Knihovna 01.07.2026 - 31.08.2026\nSrdečně zveme na naše dvě letní výstavy\, které mohou dětem i dospělým sloužit také jako inspirace pro výběr knih.\nPrvní výstavu\, NEJLEPŠÍ KNIHY DĚTEM - DĚTI\, ČTĚTE!\, pořádáme ve spolupráci s Centrem české dětské knihy a Knižní stezkou z.s.\nPutovní výstava (a také stejnojmenný literární festival) „Děti\, čtete?!“ letos představují to nejlepší ze současné české tvorby pro mladé čtenáře. Celý koncept přímo vychází z prestižního katalogu Nejlepší knihy dětem\, který každoročně sestavuje Svaz českých knihkupců a nakladatelů (SČKN) společně s Českou sekcí IBBY.\nDruhou pak ve spolupráci s nakladatelstvím Crew\, její název už mnohé napoví ČEŠTÍ AUTOŘI TVOŘÍ KOMIKS PRO DC. Věděli jste třeba\, že Jonáš Ledecký\, syn zpěváka Janka Ledeckého\, není jeho jediné talentované dítě a je mj. autorem limitované obálky\, která zobrazuje hrdiny jako Batman\, Wonder Woman nebo Flash?\nVýstavy je možné zhlédnout celé léto v chodbách knihovny.
@@ -26,18 +26,8 @@ DTSTART;TZID=Europe/Prague:20260701T000000
 DTEND;TZID=Europe/Prague:20260901T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-8131613249676284689@vrdy
-DTSTAMP:20260815T053448Z
-SUMMARY:DLK #4: Pohádky po babičce
-LOCATION:Knihovna 14.08.2026 - 14.08.2026
-DESCRIPTION:Věk 0-99 Knihovna 14.08.2026 - 14.08.2026\nTři sourozenci přijíždějí na návštěvu k nedávno ovdovělému smutnému dědečkovi. Malý Tomík nemůže usnout. Zuzanka se rozhodne vyčarovat z babiččina slamáku pohádky z vybraných slov tak\, jak je uměla vyprávět jejich milovaná babička. Společně se vydávají na kouzelnou cestu\, která ukazuje\, jak jim může vyprávění pomoci zvládat životní výzvy a nalézt v něm útěchu. A zároveň přináší naději ze světa fantazie i do vlastního života.\nŽánr: Animovaný Loutkový\nProdukce: Česko / Slovensko / Slovinsko\nRok výroby: 2025\nStopáž: 71 min\nRežie: David Súkup\, Patrik Pašš\, Leon Vidmar\, Jean-Claude Rozec\nPředloha: Arnošt Goldflam (kniha)\nScénář: Marek Král\, Petr Krajíček\, Patrik Pašš\, Kaja Balog\, Maja Križnik (více)\nKamera: Mathilde Gaillard\nHudba: Lucia Chuťková\nHrají: Arnošt Goldflam\, Mikuláš Čížek\, Zuzana Kronerová\, Viktor Preiss\, Pavla Beretová\, Žofie Hánová\, Miroslav Krobot\, Linda Křišťálová\, Michael Polák\, Ivan Trojan
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20260814T000000
-DTEND;TZID=Europe/Prague:20260815T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-8963778899780042910@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-2589632959676940595@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:Čtení na dece #4 // Pročtené léto
 LOCATION:Knihovna 21.08.2026 - 21.08.2026
 DESCRIPTION:Věk 0-99 Knihovna 21.08.2026 - 21.08.2026\nČtení na dece pořádáme v rámci Pročteného léta pro rodiny s dětmi v pátky 10. a 17. července\, 14. a 21. srpna vždy od 15:00 do 15:30.\nPro děti bude připraveno tematické čtení k Pročtenému létu a navazující aktivity\, také půvabná brožurka Mravenčích chův k letnímu projektu Pročeteného léta.\nČtení je vhodné pro kohokoli\, kdo má chuť přijít. Výběr knih flexibilně přizpůsobíme danému publiku. \;)\nVíce o Pročteném létu viz níže:\n>>\n„Kniha by pro děti měla být kornoutem se zmrzlinou.“ Tedy něčím\, co mají rády a na co se těší.\nA víte\, jak zjistíte\, která zmrzlina je vaše nejoblíbenější? Musíte ji ochutnat. Jsme přesvědčené\, že se čtením je to podobné. Proto jsme připravily Pročtené léto 2026 – letní ochutnávku knih pro malé i velké čtenáře a čtenářky. (Marie a Julie\, Mravenčí chůvy)\nPro ty z vás\, kdo Pročtené léto ještě neznají – jde o hravou letní čtenářskou výzvu\, která propojuje čtení s dobrodružstvím\, objevováním a radostí z příběhů. Děti motivuje k pravidelnému čtení prostřednictvím tematických úkolů a doporučení knih. Součástí je také tištěná brožura plná úkolů a tipů na knihy.\nV naší knihovně budou k dispozici brožury Pročteného léta pro prvních 60 dětí zdarma a výstavka knih\, které můžeme k tématu doporučit a z fondu knihovny nabídnout.
@@ -46,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20260821T000000
 DTEND;TZID=Europe/Prague:20260822T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6424353801741757655@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-3026909385664516812@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:DLK #5: Princezna stokrát jinak
 LOCATION:Knihovna 28.08.2026 - 28.08.2026
 DESCRIPTION:Věk 0-99 Knihovna 28.08.2026 - 28.08.2026\nPrincezna Stella se denně probouzí v jiné podobě. Do jejích osmnáctin zbývá týden\, a když se nepodaří ji z této podivné choroby vyléčit\, zůstanou jí neustálé proměny po celý život. Král s královnou a mudrci zkouší všechny možné léky i metody – další nadějí je prý svatba. Do rytířského turnaje se připlete sympatický mladík Johan\, který získá ruku princezny\, ale přivolá tím na sebe hněv obávaného císaře Ukruta\, který chtěl princeznu pro sebe!\nAle ani rychlá svatba princezně nepomůže. Johan slíbí Stelle\, že pojede i na kraj světa\, aby pro ni našel lék. Překvapí ho\, že se k němu cestou tajně přidá i samotná princezna. Už nikomu kromě Johana nevěří…\nNejhorší je\, že se musí dostat právě k obávanému císaři Ukrutovi\, který se prý z podobné choroby vyléčil. Johan a Stella musí překonat spoustu překážek\, navíc je jim v patách krutý pobočník císaře – Ramor.\nCestou se mladí lidé poznávají a sbližují a nakonec pochopí\, že na Stellinu chorobu je jediným lékem láska a víra v sebe sama.\nPrincezna stokrát jinak je veselá a dobrodružná pohádka o lásce\, odvaze a hledání sebe sama\, která s humorem vtáhne celou rodinu do příběhu plného proměn a skutečných hrdinů.\nPremiéra: 29.01.2026\nZemě původu: CZE\nŽánr: pohádka\nStopáž: 117 min.\nRežie: Miloslav Šmídmajer\nScénář: Tomáš Belko a Tomáš Krejčí\nKamera: Ivan Finta\nHrají: Ema Businská\, Filip Březina\, Jan Koleník\, Martin Stránsky\, Zuzana Fialová\, Patrície Solaříková\, Martin Myšička\, Martina Preissová\, Tomáš Weber\, Jaroslav Plesl\, Petr Nárožný\, Martin Mňahončák\, Danica Jurčová a další
@@ -56,8 +46,8 @@ DTSTART;TZID=Europe/Prague:20260828T000000
 DTEND;TZID=Europe/Prague:20260829T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2688160311062287971@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-277900293900196639@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:Mega SWAP a Maminky maminkám
 LOCATION:Knihovna 28.08.2026 - 28.08.2026
 DESCRIPTION:Věk 0-99 Knihovna 28.08.2026 - 28.08.2026\nBlíží se konec prázdnin!\nPřipravte sebe\, své děti a své šatníky a skříně na nový školní rok. Do swapu můžete ještě přispět věcmi na školní výměnu (od cviček po vybavení aktovek). Oblečení mimo tento typ swapu vhodný do školy/školky už prosím ne\, případně se domluvíme na odnešení vašich nerozebraných věcí.\nNa co se těšit?!\nCelý den (8:30-15:00) budete moci vybírat z nevyužitého oblečení a sezonních věcí\, knih či hraček z minulých swapů (a že jsou tam opravdu krásné kousky\, které zapadly). Jak říkají reklamy "všechno musí pryč". Potřebujeme prostory připravit na novou sezonu.\nPřipraveno bude drobné občerstvení a zábava pro malé i velké děti. Setkáte se se starými i novými přáteli. Řekneme si\, co nás v příští sezoně čeká a co byste si přáli u nás v knihovně\, koutku Dráček a komunitním centru najít a zažít.\nWellbeingový standard\, na který jsme z akcí Maminky maminkám zvyklé\, je samozřejmostí. Těšte se na Míšu Novákovou\, která nabízí pedikúru\, masáž nebo barvení obočí.\nPokud i vy máte co nabídnout a chcete se se svou službou zapojit\, neváhejte a ozvěte se. Přidáme vás na playlist \;).\nAkce bude za příznivého počasí probíhat venku.\n(A pozor! Máme nový pinkpongový stůl. Na něj se těšíme moc!)
@@ -66,8 +56,8 @@ DTSTART;TZID=Europe/Prague:20260828T000000
 DTEND;TZID=Europe/Prague:20260829T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-8516093552595731506@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-5614535151916206612@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:A3V: Zábavná historie Jezuitů
 LOCATION:Knihovna 01.09.2026 - 01.09.2026
 DESCRIPTION:Věk 12-99 Knihovna 01.09.2026 - 01.09.2026\nUPOZORNĚNÍ! akce se výjimečně nekoná ve středu\, ale v úterý 1. 9. v obvyklém čase od 18:00.\nObec Vrdy zve srdečně všechny zájemce k návštěvě 7. ročníku cyklu zábavně vzdělávacích pořadů Akademie třetího věku Vrdy.\n● Akademie se může účastnit každý zájemce\n● Účast není omezena věkem ani vzděláním\nTovaryšstvo Ježíšovo (Societas Iesu) je jeden z největších a nejvýznamnějších řeholních řádů římskokatolické církve. Byl založen byl sv. Ignácem z Loyoly roku 1534. V pořadu se dozvíte zajímavosti o pohnutém životě zakladatele\, proč na jezuity ostatní řády žárlily a také kdy byl řád zrušen a později zase obnoven.\nPřednáší Ing. Petr Šika z Akademie třetího věku.\nÚčast je zdarma.
@@ -76,8 +66,8 @@ DTSTART;TZID=Europe/Prague:20260901T000000
 DTEND;TZID=Europe/Prague:20260902T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-5544864117136277283@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-4519813885537060594@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:OFFSCROLL #1: Mladí lidé mají svůj hlas /datum budeme měnit/
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 25.09.2026 - 25.09.2026\n/pozor\, datum konání tohoto workshopu budeme ještě měnit/\nGreta Thunberg. Joshua Wong. Jakub Čech. Žákovský parlament na ZŠ Malešov.\nMladí lidé mají velkou sílu věci kolem sebe měnit\, pokud si uvědomí\, že mohou. A pokud ví\, jak na to. Po ruce mají mocný nástroj – media. A možná si ani neuvědomují\, že mnohé nástroje už znají. Co zkusit použít tik tok k podpoře úklidu svého města? Jak dostat svůj hlas do celostátního rádia? S kým se spojit\, abych byl slyšet? Žáci se nedozví\, co si mají myslet ani za co mají zkusit bojovat\, ale dozví se\, jak to udělat\, kdyby u nich tato potřeba vyvstala.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -86,8 +76,8 @@ DTSTART;TZID=Europe/Prague:20260925T000000
 DTEND;TZID=Europe/Prague:20260926T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1688424277582464027@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-2743811307692209472@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:přednášky s psycholožkou #4: Silná křídla\, bezepčný přístav
 LOCATION:Knihovna 06.10.2026 - 06.10.2026
 DESCRIPTION:Věk 18-99 Knihovna 06.10.2026 - 06.10.2026\nJiž čtvrté setkání z cyklu přednášek s psycholožkou Terezou Koutnou.\nDěti se během školního věku a dospívání mění možná víc\, než si často uvědomujeme. Z dítěte\, které bylo dříve orientované hlavně na rodinu\, se postupně stává člověk hledající své místo mezi vrstevníky a ve světě. Do toho přichází bouřlivý vývoj mozku\, silnější emoce\, větší potřeba samostatnosti i citlivost na vztahy a přijetí.\nRodiče si pak často kladou otázky:\nProč je pro puberťáka najednou důležitější parta než rodina?\nKdy dát více volnosti a kdy naopak držet hranice?\nCo je běžná součást dospívání a kdy už zbystřit?\nNa této přednášce si představíme hlavní psychologické vývojové teorie vztahující se k mladšímu školnímu věku a dospívání — srozumitelně a prakticky. Ukážeme si\, jak se vyvíjí identita\, sebevědomí\, vztahy i způsob přemýšlení dítěte a co dospívající v jednotlivých obdobích skutečně potřebují od dospělých kolem sebe.\nVstup je zdarma\, rezervace míst předem výhodou.\nAkci pořádáme díky finanční podpoře EU.
@@ -96,8 +86,8 @@ DTSTART;TZID=Europe/Prague:20261006T000000
 DTEND;TZID=Europe/Prague:20261007T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2476915636575647378@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-1965275797057548933@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:OFFSCROLL #2: Detekce neviditelného
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 09.10.2026 - 09.10.2026\nSociální sítě\, zpravodajské weby\, lokální noviny\, podcasty\, časopisy\, kuchařky\, rádio – tam všude se dnes a denně setkáváme se skrytou reklamou. Jak ji poznat? A jak se jí bránit? Interaktivní workshop staví na mnoha ukázkách\, jejichž rozbor si klade za cíl zvýšit kritické myšlení žáků a povědomí o rozšířeném fenoménu\, který se nevyhýbá žádné věkové skupině.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -106,8 +96,8 @@ DTSTART;TZID=Europe/Prague:20261009T000000
 DTEND;TZID=Europe/Prague:20261010T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6655984227326712461@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-8152132610544614177@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:A3V: Zábavná historie Karlova mostu
 LOCATION:Knihovna 21.10.2026 - 21.10.2026
 DESCRIPTION:Věk 12-99 Knihovna 21.10.2026 - 21.10.2026\nObec Vrdy zve srdečně všechny zájemce k návštěvě 7. ročníku cyklu zábavně vzdělávacích pořadů Akademie třetího věku Vrdy.\n● Akademie se může účastnit každý zájemce\n● Účast není omezena věkem ani vzděláním\nV pořadu Zábavná historie Karlova mostu se podrobně podíváme na jeden ze splněných snů tce vlasti. Dozvíte se\, jaké datum bylo zvoleno pro položení základního kamene\, jak to bylo s vejci v maltě i kde se inspirovali tehdejší stavitelé. Poslechnete si podrobnosti o věžích\, sochách i zajímavých okamžicích\, kdy se na Karlově mostě skutečně psala historie.\nPřednáší Ing. Petr Šika z Akademie třetího věku.\nÚčast je zdarma.
@@ -116,8 +106,8 @@ DTSTART;TZID=Europe/Prague:20261021T000000
 DTEND;TZID=Europe/Prague:20261022T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-638081323346597886@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-1366314500823936361@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:OFFSCROLL #3: Digitální stopa a OSINT
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 06.11.2026 - 06.11.2026\nV této lekci žáci pracují s veřejně dostupnými daty na internetu. Snaží se zjistit a dát si do kontextu co nejvíce informací o fiktivní osobě Sarinkaaaa3101. Cílem této aktivity je nejen rozvíjet dovednosti spojené s vyhledáváním a analýzou informací\, ale rovněž naučit žáky porozumět pojmu digitální stopa a významu bezpečného chování v online prostředí.\npozn.: OSINT (Open Source Intelligence - systematický sběr\, analýza a interpretace informací z volně dostupných zdrojů\, jako jsou internet\, sociální sítě\, média či veřejné rejstříky)\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -126,8 +116,8 @@ DTSTART;TZID=Europe/Prague:20261106T000000
 DTEND;TZID=Europe/Prague:20261107T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-8252241266294493775@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-3457368454536497116@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:A3V: Zábavná historie filmového Barrandova
 LOCATION:Knihovna 11.11.2026 - 11.11.2026
 DESCRIPTION:Věk 12-99 Knihovna 11.11.2026 - 11.11.2026\nObec Vrdy zve srdečně všechny zájemce k návštěvě 7. ročníku cyklu zábavně vzdělávacích pořadů Akademie třetího věku Vrdy. Tato přednášku uzavírá letošní cyklus. Na další se můžete těšit opět po Novém roce.\n● Akademie se může účastnit každý zájemce\n● Účast není omezena věkem ani vzděláním\nV pořadu se vypravíme za počátky dějin českého "Hollywoodu". Seznámíte se s ambiciózním\npodnikatelem\, který si na kopci za Prahou v roce 1933 splnil svůj velký sen. Dozvíte se zajímavosti a kuriozity ze zákulisí fungování továrny na sny. Na závěr si připomeneme některé legendární filmy\,které zde vznikly.\nPřednáší Ing. Petr Šika z Akademie třetího věku.\nÚčast je zdarma.
@@ -136,8 +126,8 @@ DTSTART;TZID=Europe/Prague:20261111T000000
 DTEND;TZID=Europe/Prague:20261112T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1588726371237107507@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-7919506547341917571@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:OFFSCROLL #4: Syntetická realita (deepfakes)
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 04.12.2026 - 04.12.2026\nGenerativní umělá inteligence zásadně mění způsob digitální manipulace. Syntetická realita je prostor\, v němž je velmi složité rozpoznat\, co bylo vytvořeno lidmi a co počítačem. Cílem workshopu je podpořit žáky v kritickém posuzování obsahu\, který je jim nabízen v online prostoru.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -146,8 +136,8 @@ DTSTART;TZID=Europe/Prague:20261204T000000
 DTEND;TZID=Europe/Prague:20261205T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-6306310846686531715@vrdy
-DTSTAMP:20260815T053448Z
+UID:knihovnavrdy-5031743537550448139@vrdy
+DTSTAMP:20260816T053722Z
 SUMMARY:Neboj\, neboj!
 LOCATION:Knihovna 11.01.2027 - 30.06.2027
 DESCRIPTION:Věk 0-99 Knihovna 11.01.2027 - 30.06.2027\nPOZOR! TERMÍN VÝSTAVY POSUNUT NA ROK 2027.\nStrach je náš pradávný společník! Rodíme se s ním a potkáváme ho celý život. Je jednou ze čtyř základních lidských emocí\, stejně tak jako radost\, smutek a vztek. Není to zloduch. Je to hlas\, který nás varuje\, když stojíme na prahu neznámého.\nPojďme se o svoje obavy zajímat! Naučit se s nimi zacházet a sdílet je se svými blízkými. Strach totiž není žádná ostuda. Přijďte se zasmát svým obavám\, proměnit cizí ve vlastní a zjistit\, že i strach může být dveřmi do vlastní svobody. A odvaha? Ta je pevným krokem vpřed. I když se nám třesou kolena. A proto je schopností každého z nás.\nNeboj\, neboj! je výstava o strachu pro malé i velké. Otevírá tento pozoruhodný fenomén v rodině\, v domácnosti\, ve škole\, ve městě nebo třeba v přírodě. Výstava otevírá prostor\, kde se děti i dospělí učí slyšet ozvěnu vlastních obav. Interaktivní instalace\, zvuková koláž a architektonické hry tu proměňují strach v mapu zážitků a kýbl zábavy. Návštěvníci objeví\, že neznámé není hrozba\, ale příležitost. Že otázky jsou mosty\, které nás vedou dál. Každý proradný stín se zde stává příběhem\, každé zaváhání začátkem cesty.\nVýstava se inspiruje stejnojmennou úspěšnou knihou\, jejímiž autory jsou Milada Rezková a Lukáš Urbánek. Poprvé se uskutečnila v Galerii Atrium v Praze na Žižkově. V roce 2023 byla instalována také v Divadle Drak\, v Hradci Králové\, nyní je až do 18. října 2026 k vidění ve Sladovně v Písku.\nVernisáž výstavy s workshopem Lukáše Urbánka proběhne v pátek 23. 10. 2026.\nVíce informací o workshopu a přihlašování se na něj budou k dispozici již brzy. \;)
