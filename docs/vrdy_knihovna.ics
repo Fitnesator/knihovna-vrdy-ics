@@ -6,18 +6,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Knihovna Vrdy – Akce
 BEGIN:VEVENT
-UID:knihovnavrdy-7526082246707434123@vrdy
-DTSTAMP:20260924T095437Z
-SUMMARY:Ahoj\, kytko! s Andreou Tachezy//workshop
-LOCATION:Knihovna 24.09.2026 - 24.09.2026
-DESCRIPTION:Věk 4-10 Knihovna 24.09.2026 - 24.09.2026\nHravý workshop pro předškolní a mladší školní děti s oceňovanou výtvarnicí a ilustrátorou dětských knih Andreaou Tachezy.\nMáme rádi kytky! A protože i ony by rády občas na procházku\, vyrobíme si papírovou čelenku osázenou nejroztodivnější květenou\, která s námi může jít\, kam se nám zlíbí.\nS ohledem na přípravu materiálu a omezenou kapacitu pěkně prosíme o registraci míst předem na webu knihovny.
-URL:https://www.knihovnavrdy.cz/akce
-DTSTART;TZID=Europe/Prague:20260924T000000
-DTEND;TZID=Europe/Prague:20260925T000000
-END:VEVENT
-BEGIN:VEVENT
-UID:knihovnavrdy-1432962328964890421@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-6961431918821494968@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:Čtenářská dílnička//BookStart (0-3) roky
 LOCATION:Knihovna 25.09.2026 - 25.09.2026
 DESCRIPTION:Věk 0-3 Knihovna 25.09.2026 - 25.09.2026\nBookstart setkání pro rodiče a děti nad zajímavými knihami.
@@ -26,8 +16,8 @@ DTSTART;TZID=Europe/Prague:20260925T000000
 DTEND;TZID=Europe/Prague:20260926T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-537511402112514620@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-2846578350130376780@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:Poezie bez pravidel s Janou Havránkovou//workshop
 LOCATION:Knihovna 30.09.2026 - 30.09.2026
 DESCRIPTION:Věk 7-99 Knihovna 30.09.2026 - 30.09.2026\nPoezie bez pravidel s Janou Havránkovou ze Základů výtvarného myšlení\nTvorba vlastní básně a její výtvarné zpracování. Krátce se seznámíte s poezií minulou i současnou a objevíte různé způsoby\, jak si s poezií hrát – od haiku přes absolutní báseň až po blackout poetry. Vlastní text pak proměníte v malé výtvarné dílo pomocí koláže\, kresby\, malby\, akvarelu nebo práce s písmem. Pro dospělé i děti od 7 let.\nRezervace míst do 23. 9. 2026 na webu knihovny.\nCena 400\,-/osobu\nS Janou a Základy výtvarného myšlení se budeme setkávat během zajímavých workshopů na pomezí slova a výtvarného umění celý podzim. Mrkněte i na přiložený plakát.\nhttps://www.zakladyvytvarnehomysleni.com/
@@ -36,8 +26,8 @@ DTSTART;TZID=Europe/Prague:20260930T000000
 DTEND;TZID=Europe/Prague:20261001T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4908700262160003877@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-4606209770604690167@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:přednášky s psycholožkou #4: Silná křídla\, bezpečný přístav
 LOCATION:Knihovna 06.10.2026 - 06.10.2026
 DESCRIPTION:Věk 18-99 Knihovna 06.10.2026 - 06.10.2026\nJiž čtvrté setkání z cyklu přednášek s psycholožkou Terezou Koutnou.\nDěti se během školního věku a dospívání mění možná víc\, než si často uvědomujeme. Z dítěte\, které bylo dříve orientované hlavně na rodinu\, se postupně stává člověk hledající své místo mezi vrstevníky a ve světě. Do toho přichází bouřlivý vývoj mozku\, silnější emoce\, větší potřeba samostatnosti i citlivost na vztahy a přijetí.\nRodiče si pak často kladou otázky:\nProč je pro puberťáka najednou důležitější parta než rodina?\nKdy dát více volnosti a kdy naopak držet hranice?\nCo je běžná součást dospívání a kdy už zbystřit?\nNa této přednášce si představíme hlavní psychologické vývojové teorie vztahující se k mladšímu školnímu věku a dospívání — srozumitelně a prakticky. Ukážeme si\, jak se vyvíjí identita\, sebevědomí\, vztahy i způsob přemýšlení dítěte a co dospívající v jednotlivých obdobích skutečně potřebují od dospělých kolem sebe.\nVstup je zdarma\, rezervace míst předem výhodou.\nAkci pořádáme díky finanční podpoře EU.
@@ -46,8 +36,8 @@ DTSTART;TZID=Europe/Prague:20261006T000000
 DTEND;TZID=Europe/Prague:20261007T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-3201803383590862999@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-7022373252788074529@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:OFFSCROLL #2: Detekce neviditelného
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 09.10.2026 - 09.10.2026\nSociální sítě\, zpravodajské weby\, lokální noviny\, podcasty\, časopisy\, kuchařky\, rádio – tam všude se dnes a denně setkáváme se skrytou reklamou. Jak ji poznat? A jak se jí bránit? Interaktivní workshop staví na mnoha ukázkách\, jejichž rozbor si klade za cíl zvýšit kritické myšlení žáků a povědomí o rozšířeném fenoménu\, který se nevyhýbá žádné věkové skupině.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -56,8 +46,28 @@ DTSTART;TZID=Europe/Prague:20261009T000000
 DTEND;TZID=Europe/Prague:20261010T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-1043824538557318653@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-7643008648153789553@vrdy
+DTSTAMP:20260925T100819Z
+SUMMARY:Logopedie pro rodiče  v praxi
+LOCATION:Knihovna 13.10.2026 - 13.10.2026
+DESCRIPTION:Věk 18-99 Knihovna 13.10.2026 - 13.10.2026\nPřednáška pro rodiče: Jak podpořit správný vývoj řeči u dětí\nZveme vás na setkání s klinickou logopedkou Mgr. Barborou Hušákovou\, která vás provede světem dětské řeči a komunikace.\nCo se na přednášce dozvíte?\nJak se vyvíjí dětská řeč: Projdeme si jednotlivá vývojová období\, jejich úskalí a řekneme si\, jak předcházet komunikačním obtížím.\nNejčastější logopedické vady: Seznámíte se s nejběžnějšími typy řečových a jazykových poruch\, abyste je dokázali včas rozpoznat.\nPraxe na prvním místě: Domů odejdete s konkrétními radami a tipy.\nUkážeme si také efektivní logopedické pomůcky a na závěr bude prostor pro vaše dotazy.\nO lektorce:\nMgr. Barbora Hušáková je zkušená klinická logopedka (absolventka UP Olomouc s atestací v oboru). Během své praxe působila v Hamzově odborné léčebně pro děti a dospělé\, v ambulanci v Čáslavi a v současné době vede privátní praxi v Bousově. V rámci celoživotního vzdělávání neustále sleduje moderní trendy v oboru.\nAkci pořádáme díky finanční podpoře projektu Bookstart - Knížka pro prvňáčka.
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20261013T000000
+DTEND;TZID=Europe/Prague:20261014T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-1341637245210748289@vrdy
+DTSTAMP:20260925T100819Z
+SUMMARY:Workshop: Vyrob si ptačí krmítko!
+LOCATION:Knihovna F. V. Lorence Vrdy
+DESCRIPTION:Věk 9-12 ZŠ Vrdy 14.10.2026 - 14.10.2026 170 Kč\nWorkshop: Vyrob si své ptačí krmítko!\nZveme všechny tvořivé kluky a holky ze 4.\, 5. a 6. tříd na praktický workshop\, kde si vlastnoručně vyrobí dřevěné krmítko pro ptáčky.\nProměňte se na jedno odpoledne v opravdové mistry řemesla! V dílnách polytechnického centra při ZŠ Vrdy si vyzkoušíte práci s opravdovým nářadím a materiálem. Domů si odnesete nejen skvělý pocit z dobře odvedené práce\, ale hlavně hotové krmítko\, kterým můžete potěšit ptáčky na své zahradě nebo za oknem a sledovat je celou zimu.\nCo tě na workshopu čeká?\nPráce s dřevem a nářadím: Naučíš se správně a bezpečně měřit\, řezat\, brousit a spojovat dřevěné díly.\nVlastní design: Krmítko si můžeš dotvořit a ozdobit podle své fantazie.\nCo si vzít s sebou?\nPracovní oblečení\, které se může trochu ušpinit nebo potrhat.\nVšechny materiály\, ochranné pomůcky i nářadí jsou zajištěny na místě.\nCena za workshop je 170 Kč a zahrnuje odborné vedení i materiál.\nOrganizační informace\nKde: Polytechnické centrum ZŠ Vrdy\nPro koho: Žáci 4. – 6. ročníků ZŠ Vrdy\nKapacita: max 8 dětí (z důvodu bezpečnosti a individuálního přístupu v dílnách)\nPřijďte si vyzkoušet\, že práce s dřevem je skvělá zábava a že dokážete vyrobit něco užitečného pro přírodu!\nZdroj/obrázek: www.obi.cz
+URL:https://www.knihovnavrdy.cz/akce
+DTSTART;TZID=Europe/Prague:20261014T000000
+DTEND;TZID=Europe/Prague:20261015T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:knihovnavrdy-7473409221318346020@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:A3V: Zábavná historie Karlova mostu
 LOCATION:Knihovna 21.10.2026 - 21.10.2026
 DESCRIPTION:Věk 12-99 Knihovna 21.10.2026 - 21.10.2026\nObec Vrdy zve srdečně všechny zájemce k návštěvě 7. ročníku cyklu zábavně vzdělávacích pořadů Akademie třetího věku Vrdy.\n● Akademie se může účastnit každý zájemce\n● Účast není omezena věkem ani vzděláním\nV pořadu Zábavná historie Karlova mostu se podrobně podíváme na jeden ze splněných snů tce vlasti. Dozvíte se\, jaké datum bylo zvoleno pro položení základního kamene\, jak to bylo s vejci v maltě i kde se inspirovali tehdejší stavitelé. Poslechnete si podrobnosti o věžích\, sochách i zajímavých okamžicích\, kdy se na Karlově mostě skutečně psala historie.\nPřednáší Ing. Petr Šika z Akademie třetího věku.\nÚčast je zdarma.
@@ -66,8 +76,8 @@ DTSTART;TZID=Europe/Prague:20261021T000000
 DTEND;TZID=Europe/Prague:20261022T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2715586007349488457@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-7578470430776893810@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:AI jako parťák digitální výchovy // pro širokou v
 LOCATION:Knihovna 02.11.2026 - 02.11.2026
 DESCRIPTION:Věk 14-99 Knihovna 02.11.2026 - 02.11.2026\nChcete pomoci svým dětem efektivně se učit na testy a zkoušení\, přijímací nebo závěrečné zkoušky? Jsou pro vás digitální technologie strašák nebo španělská vesnice? Pomůžeme vám!\nS lektorkou Lucií Römer připravujeme přednášku jak proměnit vnímání AI z nástroje pro „podvádění“ na osobního mentora\, který rozvíjí kreativitu a efektivitu učení. Přednáška bude mít výkladovou i praktickou část\, kde si vše budete moci vyzkoušet.\nOdcházet budete vybaveni konkrétními nástroji\, jak vést děti k etickému používání technologií a nastavení zdravých hranic.\nNa přednášku je možné si rezervovat místo přihlášením přes web knihovně. Přihlášení ale není podmínkou účasti. Účast na akci ze zdarma.\nVlastní nb nebo tablet výhodou. Pokud jen nemáte k dispozici\, prosím\, napište mi na knihovna@obecvrdy.cz a domluvíme se.\nAkce je součástí širšího programu v rámci projektu Offscroll. OFFSCROLL je zastřešující název našeho podzimního projektu\, který dětem i dospělým pomůže nahlédnout pod povrch digitálních technologií. Připraví je na možná rizika\, ale také nabídne typy na nástroje\, které mohou jak dětem\, tak dospělým podstatně usnadnit život.\nVšechny výše uvedné akce pořádáme díky grantu pro podporu mediální a digitální gramotnosti od Nadace OSF.\nLektorkou a průvodkyní všech workshopů a přednášek je Lucie Römer.\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.\nAkce součastně probíhá v rámci Týdne pro Knihovny.Digital (TKD). Takto celorepubliková akce svou myšlenkou navazuje na zrušený Týden pro Digitální Česko a jejím cílem je ukázat\, že jsou knihovny schopné nabídnout veřejnosti pomocnou ruku v oblasti digitálních služeb a digitální gramotnosti.
@@ -76,8 +86,8 @@ DTSTART;TZID=Europe/Prague:20261102T000000
 DTEND;TZID=Europe/Prague:20261103T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-2764705028802484149@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-6734095743885938480@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:OFFSCROLL #3: Digitální stopa a OSINT
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 06.11.2026 - 06.11.2026\nV této lekci žáci pracují s veřejně dostupnými daty na internetu. Snaží se zjistit a dát si do kontextu co nejvíce informací o fiktivní osobě Sarinkaaaa3101. Cílem této aktivity je nejen rozvíjet dovednosti spojené s vyhledáváním a analýzou informací\, ale rovněž naučit žáky porozumět pojmu digitální stopa a významu bezpečného chování v online prostředí.\npozn.: OSINT (Open Source Intelligence - systematický sběr\, analýza a interpretace informací z volně dostupných zdrojů\, jako jsou internet\, sociální sítě\, média či veřejné rejstříky)\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
@@ -86,8 +96,8 @@ DTSTART;TZID=Europe/Prague:20261106T000000
 DTEND;TZID=Europe/Prague:20261107T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4890196897704139712@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-7620612155618375065@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:A3V: Zábavná historie filmového Barrandova
 LOCATION:Knihovna 11.11.2026 - 11.11.2026
 DESCRIPTION:Věk 12-99 Knihovna 11.11.2026 - 11.11.2026\nObec Vrdy zve srdečně všechny zájemce k návštěvě 7. ročníku cyklu zábavně vzdělávacích pořadů Akademie třetího věku Vrdy. Tato přednášku uzavírá letošní cyklus. Na další se můžete těšit opět po Novém roce.\n● Akademie se může účastnit každý zájemce\n● Účast není omezena věkem ani vzděláním\nV pořadu se vypravíme za počátky dějin českého "Hollywoodu". Seznámíte se s ambiciózním\npodnikatelem\, který si na kopci za Prahou v roce 1933 splnil svůj velký sen. Dozvíte se zajímavosti a kuriozity ze zákulisí fungování továrny na sny. Na závěr si připomeneme některé legendární filmy\,které zde vznikly.\nPřednáší Ing. Petr Šika z Akademie třetího věku.\nÚčast je zdarma.
@@ -96,8 +106,8 @@ DTSTART;TZID=Europe/Prague:20261111T000000
 DTEND;TZID=Europe/Prague:20261112T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:knihovnavrdy-4823232014833282701@vrdy
-DTSTAMP:20260924T095437Z
+UID:knihovnavrdy-6937509984934232906@vrdy
+DTSTAMP:20260925T100819Z
 SUMMARY:OFFSCROLL #4: Syntetická realita (deepfakes)
 LOCATION:Knihovna F. V. Lorence Vrdy
 DESCRIPTION:Věk 12-15 ZŠ Vrdy 04.12.2026 - 04.12.2026\nGenerativní umělá inteligence zásadně mění způsob digitální manipulace. Syntetická realita je prostor\, v němž je velmi složité rozpoznat\, co bylo vytvořeno lidmi a co počítačem. Cílem workshopu je podpořit žáky v kritickém posuzování obsahu\, který je jim nabízen v online prostoru.\nLektorka:\nLucie Römer pracuje v médiích 20 let jako novinářka\, dříve v týdeníku Respekt\, nyní na volné noze (publikuje zejména v lokálních médiích na Kutnohorsku a ve slovenském měsíčníku Nota Bene). Absolvovala doktorské studium na UK v oblasti mediální výchovy. Dlouhodobě vede workshopy mediální výchovy zaměřené na mediální tvorbu a na hlubší pochopení mechanismu fungování médií\, jejich rizik i příležitostí.
